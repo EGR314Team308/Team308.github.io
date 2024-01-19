@@ -8,3 +8,4 @@ title: Home
 By: Gabriel Sandys, Shawn Meris, Hengjui Chang, Matt Olpin
 
 EGR314, Spring, 2024
+Shawn
