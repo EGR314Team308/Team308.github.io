@@ -1,8 +1,8 @@
 ---
-title: Team 308
+title
 ---
 
-# Home
+# Team 308: Home
 
 ## Mobile Weather Station
 By: Gabriel Sandys, Shawn Meris, Hengjui Chang, Matt Olpin
