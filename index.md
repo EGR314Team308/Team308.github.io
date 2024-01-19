@@ -1,5 +1,5 @@
 ---
-title
+title: Home
 ---
 
 # Team 308: Home
