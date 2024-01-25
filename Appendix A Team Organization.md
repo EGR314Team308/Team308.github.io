@@ -1,5 +1,8 @@
-Communication Channels
-
+## Communication Channels
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 Name
 First Choice Communication
 Second Choice Communication
