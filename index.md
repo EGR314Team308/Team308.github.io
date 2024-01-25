@@ -12,11 +12,25 @@ Team Members: Gabriel Sandys, Shawn Meris, Hengjui Chang, Matt Olpin
 
 Arizona State University, EGR314, Spring, 2024, Dr. Nichols
 
-## Folders and Pages
+## Folders
 
 [Link to PIC Code](pic/index.md) <br>
 [Link to esp32](esp32/index.md) <br>
-[Link to Team Organization](Team Organization.md) <br>
+
+## Assignments
+Team Goals
+
+Our project will provide consistent, reliable, and accurate sensor input. <br>
+The project will have a real-life application that would have a significant impact for users. <br>
+Further our passion and knowledge in working with microcontrollers. <br>
+Motorized components in the project will work consistently to produce useful results. <br>
+The project will be able to fulfill all safety and project requirements. <br>
+
+Product Mission Statement
+
+The product will be reliable and work accurately to determine environmental conditions and use that data to determine and execute actions that are impactful for our project.
+Below is the Appendix A: Team Organization
+[Link to Appendix A: Team Organization](Appendix A: Team Organization.md) <br>
 [Link to User Needs, Benchmarking, and Requirements](User Needs, Benchmarking, and Requirements.md) <br>
 [Link to Design Ideation](Design Ideation.md) <br>
 [Link to Presentation 1](Presentation 1.md) <br>
