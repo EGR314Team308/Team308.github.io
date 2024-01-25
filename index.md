@@ -12,11 +12,11 @@ Team Members: Gabriel Sandys, Shawn Meris, Hengjui Chang, Matt Olpin
 
 Arizona State University, EGR314, Spring, 2024, Dr. Nichols
 
-## Folders
+## Folders and Pages
 
-[link to PIC Code](pic/index.md)
-[link to esp32](esp32/index.md)
-[link to Team Organization](Team Organization.md)
-[link to User Needs, Benchmarking, and Requirements](User Needs, Benchmarking, and Requirements.md)
-[link to Design Ideation](Design Ideation.md)
-[link to Presentation 1](Presentation 1.md)
+[link to PIC Code](pic/index.md) <br>
+[link to esp32](esp32/index.md) <br>
+[link to Team Organization](Team Organization.md) <br>
+[link to User Needs, Benchmarking, and Requirements](User Needs, Benchmarking, and Requirements.md) <br>
+[link to Design Ideation](Design Ideation.md) <br>
+[link to Presentation 1](Presentation 1.md) <br>
