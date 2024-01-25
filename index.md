@@ -21,7 +21,7 @@ Arizona State University, EGR314, Spring, 2024, Dr. Nichols
 
 Team 308 was made to create a weather station that measures different environmental conditions. The team first talked about the team charter and team goals to see how each member wanted the team to both perform in the project and what the project should entail. The team goals listed below were created in a team meeting where every member had input into the teams ultimate goals. 
 
-Team Goals
+#Team Goals
 
 Our project will provide consistent, reliable, and accurate sensor input. <br>
 The project will have a real-life application that would have a significant impact for users. <br>
@@ -31,7 +31,7 @@ The project will be able to fulfill all safety and project requirements. <br>
 
 The product mission statement listed below was talked about during a team meeting that satisfies both the project that the team wants to build and fulfills the project requirements.
 
-Product Mission Statement
+#Product Mission Statement
 
 The product will be reliable and work accurately to determine environmental conditions and use that data to determine and execute actions that are impactful for our project.
 
