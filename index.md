@@ -17,7 +17,8 @@ Arizona State University, EGR314, Spring, 2024, Dr. Nichols
 [Link to PIC Code](pic/index.md) <br>
 [Link to esp32](esp32/index.md) <br>
 
-## Assignments
+## Team Organization
+
 Team Goals
 
 Our project will provide consistent, reliable, and accurate sensor input. <br>
