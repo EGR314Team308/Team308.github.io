@@ -31,7 +31,7 @@ Product Mission Statement
 The product will be reliable and work accurately to determine environmental conditions and use that data to determine and execute actions that are impactful for our project.
 Below is the Appendix A: Team Organization <br>
 
-[Link to Appendix A: Team Organization](Appendix A: Team Organization.md) <br>
+[Link to Appendix A: Team Organization](Appendix A Team Organization.md) <br>
 [Link to User Needs, Benchmarking, and Requirements](User Needs, Benchmarking, and Requirements.md) <br>
 [Link to Design Ideation](Design Ideation.md) <br>
 [Link to Presentation 1](Presentation 1.md) <br>
