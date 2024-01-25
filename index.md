@@ -16,4 +16,4 @@ Arizona State University, EGR314, Spring, 2024, Dr. Nichols
 
 [link to PIC Code](/pic/index)
 [link to ESP32 Code](/esp32/index)
-[link to Team Organization](TeamOrganization.md)
+[link to Team Organization](Team Organization.md)
