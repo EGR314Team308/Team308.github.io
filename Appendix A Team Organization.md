@@ -1,10 +1,10 @@
 ## Communication Channels
-| Name | First Choice Communication || Second Choice Communication  | Third Choice Communication |
-| ------------- | ------------- || ------------- | ------------- |
-| Shawn Meris  | Text or phone call  || Email  | Discord  |
-| Content Cell  | Content Cell  || Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  || Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  || Content Cell  | Content Cell  |
+| Name | First Choice Communication | Second Choice Communication  | Third Choice Communication |
+| ------------- | ------------- | ------------- | ------------- |
+| Shawn Meris  | Text or phone call  | Email  | Discord  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 
 Gabriel Sandys
