@@ -55,13 +55,29 @@ The team cam together during class and outside of class during the weekly meetin
 
 ### Generate Ideas
 
+![Ideas](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/5c7a3ca1-7c59-413b-8403-54374099224a)
+
 ### Sort, Rank, and Group Design Concepts
 
 The process for organizing and ranking ideas was seeing if there were any patterns between the 100 ideas and separating them in 3 different groups. The three groups were separated into Locations, Environment Control and Use Cases. The team ranked the ideas from 1 star to 3 stars based on the user needs above and if they cover the project and product requirements. The three groups are shown below along with the ranks of each one on a Jamboard.
 
+![LocS](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/c0e80970-fd57-44a6-a57f-758874c510bb)
+![EvS](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/ad9b3e16-2b7d-4a38-ab31-2a93f41d54ea)
+![UseCS](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/d04d554e-668d-4da3-9fcb-4c047128d505)
+
+
 ### Create three product concept sketches
 
 Gabriel created the Greenhouse Regulation System in Blender, Roy created the Mars Weather Station in Solidworks and Matt made the Wind Farm Weather Station. Below are Team 308s product concept sketches.
+
+Greenhouse Regulation System
+
+![iso](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/539d6bde-eb0b-4e19-81c7-2afff471da85)
+
+Mars Weather Station
+
+Wind Farm Weather Station
+
 
 [Link to Design Ideation](Design Ideation.md) <br>
 
