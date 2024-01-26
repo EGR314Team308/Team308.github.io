@@ -15,6 +15,8 @@ We will communicate through group text and Zoom (if needed) asynchronously and m
 
 We will meet before class from 10am-12pm on Monday-Wednesday. We will also meet from 6-8pm on Monday and Tuesday if more work is needed.
 
+![image caption]![TeamSchedule](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/d5b10330-c3e6-4ba9-9902-58fb7b7edb90)
+
 | People | Abbreviation | Email | Phone |
 |:-------------:| :-------------: | :-------------: | :-------------: |
 | Shawn | S | smeris@asu.edu | 949-939-9859 |
@@ -26,8 +28,6 @@ Methods of Group Communication
 1. Group Text
 2. Phone Call
 3. Email
-
-
 
 ## Meeting Coordination
 
@@ -56,7 +56,6 @@ We will address missed assignments, contributions or actions by discussing them 
 ## Conflict Recognition & Resolution
 
 We will meet and communicate in our group chat regularly about our progress and address disagreements that emerge.  If someone has a concern, we will find ways to help alleviate the problems that we are having and decide as a team how to carry on. A problem would be escalated to the instructor if we still can not resolve the issue.
-
 
 ## Signatures 
 Team 308 <br>
