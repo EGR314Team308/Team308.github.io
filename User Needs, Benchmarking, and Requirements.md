@@ -290,29 +290,222 @@ Explicit user needs will be highlighted or colored yellow and latent will be hig
 
 ![image](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/62b1e46b-2c12-4e6d-b081-eb319a819b3a)
 
-1. The device can detect <span style="background-color: #FFFF00">pollution levels.</span>⭐
-2. The device can detect <span style="background-color: #FFFF00">harmful elements in the air.</span>⭐⭐
-3. The weather station needs the <span style="background-color: #FFFF00">temperature to be right.</span>⭐⭐⭐
-4. The device can detect the <span style="background-color: #FFFF00">amount of sunlight exposure.</span>⭐
-5. The device can measure the <span style="background-color: #FFFF00">amount of precipitation.</span>⭐⭐
-6. The device can detect the <span style="background-color: #FFFF00">types of precipitation.</span>⭐
-7. The environment sensor is <span style="background-color: #FFFF00">accurate.</span>⭐⭐⭐
-8. Collects data on the <span style="background-color: #FFFF00">weather for future forecasts.</span>⭐⭐
-9. The device can <span style="background-color: #FFFF00">track energy consumption.</span>⭐
-10. The project can detect <span style="background-color: #FFFF00">rain and snow.</span>⭐⭐
-11. The device can determine <span style="background-color: #FFFF00">wind direction.</span>⭐⭐⭐
-12. The device can measure <span style="background-color: #FFFF00">UV radiation.</span>⭐
-13. The <span style="background-color: #FFFF00">information should be accurate and precise.</span>⭐⭐⭐
+#### Sensors
+1. <span style="background-color: #FFFF00">The device can detect pollution levels.</span>⭐
+2. <span style="background-color: #FFFF00">The device can detect harmful elements in the air.</span>⭐⭐
+3. <span style="background-color: #FFFF00">The weather station needs the temperature to be right.</span>⭐⭐⭐
+4. <span style="background-color: #FFFF00">The device can detect the amount of sunlight exposure.</span>⭐
+5. <span style="background-color: #FFFF00">The device can measure the amount of precipitation.</span>⭐⭐
+6. <span style="background-color: #FFFF00">The device can detect the types of precipitation.</span>⭐
+7. <span style="background-color: #FFFF00">The environment sensor is accurate.</span>⭐⭐⭐
+8. <span style="background-color: #FFFF00">Collects data on the weather for future forecasts.</span>⭐⭐
+9. <span style="background-color: #FFFF00">The device can track energy consumption.</span>⭐
+10. <span style="background-color: #FFFF00">The project can detect rain and snow.</span>⭐⭐
+11. <span style="background-color: #FFFF00">The device can determine wind direction.</span>⭐⭐⭐
+12. <span style="background-color: #FFFF00">The device can measure UV radiation.</span>⭐
+13. <span style="background-color: #FFFF00">The information should be accurate and precise.</span>⭐⭐⭐
 14. <span style="background-color: #FFFF00">Alerting users of weather changes.</span>⭐
-15. The device has the <span style="background-color: #FFFF00">correct temperature.</span>⭐⭐⭐
-16. The device has the <span style="background-color: #FFFF00">correct humidity.</span>⭐⭐⭐
-17. The device has the <span style="background-color: #FFFF00">correct atmospheric pressure.</span>⭐⭐⭐
-18. The device has the <span style="background-color: #FFFF00">correct wind speed.</span>⭐⭐⭐
-19. The device has <span style="background-color: #FFFF00">CO2 sensors.</span>⭐
-20. The station is <span style="background-color: #FFFF00">designed based on the location of the user.</span>⭐
-21. The project should be able to <span style="background-color: #FFFF00">automate control for exhaust.</span>⭐
-22. The project should be able to <span style="background-color: #FFFF00">automate control for the humidifier.</span>⭐
-23. The project should be able to <span style="background-color: #FFFF00">automate control for the heater.</span>⭐
-24. The project should be able to <span style="background-color: #FFFF00">automated control for light.</span>⭐⭐
-25. The device can <span style="background-color: #FFFF00">provide real-time information about the weather.</span>⭐⭐
-26. The environment sensor has <span style="background-color: #FFFF00">good sensitivity.</span>⭐⭐
+15. <span style="background-color: #FFFF00">The device has the correct temperature.</span>⭐⭐⭐
+16. <span style="background-color: #FFFF00">The device has the correct humidity.</span>⭐⭐⭐
+17. <span style="background-color: #FFFF00">The device has the correct atmospheric pressure.</span>⭐⭐⭐
+18. <span style="background-color: #FFFF00">The device has the correct wind speed.</span>⭐⭐⭐
+19. <span style="background-color: #FFFF00">The device has CO2 sensors.</span>⭐
+20. <span style="background-color: #FFFF00">The station is designed based on the location of the user.</span>⭐
+21. <span style="background-color: #FFFF00">The project should be able to automate control for exhaust.</span>⭐
+22. <span style="background-color: #FFFF00">The project should be able to automate control for the humidifier.</span>⭐
+23. <span style="background-color: #FFFF00">The project should be able to automate control for the heater.</span>⭐
+24. <span style="background-color: #FFFF00">The project should be able to automated control for light.</span>⭐⭐
+25. <span style="background-color: #FFFF00">The device can provide real-time information about the weather.</span>⭐⭐
+26. <span style="background-color: #00FBFF">The environment sensor has good sensitivity.</span>⭐⭐
+
+![image](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/1c1f7032-cc96-4f4c-a7bd-4f2a7ff09532)
+
+![image](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/bdf7e547-82ef-48cd-8328-6027527bff16)
+
+#### Usability/Software
+1. <span style="background-color: #FFFF00">The weather station has bright colors.</span>⭐
+2. <span style="background-color: #FFFF00">Multiple product features.</span>⭐⭐
+3. <span style="background-color: #FFFF00">The weather station is easy to read.</span>⭐⭐⭐
+4. <span style="background-color: #FFFF00">Be used for personal weather tracking.</span>⭐
+5. <span style="background-color: #FFFF00">The product can be protected from rain.</span>⭐⭐⭐
+6. <span style="background-color: #FFFF00">The project can be protected from hail.</span>⭐
+7. <span style="background-color: #FFFF00">The station can be protected from snow.</span>⭐⭐
+8. <span style="background-color: #FFFF00">The device can be protected from electricity.</span>⭐⭐
+9. <span style="background-color: #FFFF00">The environment sensor is useful and works.</span>⭐⭐
+10. <span style="background-color: #FFFF00">The environment sensor gives feedback in a timely manner.</span>⭐⭐
+11. <span style="background-color: #FFFF00">The device can communicate wirelessly.</span>⭐⭐
+12. <span style="background-color: #FFFF00">The device can show moon phases.</span>⭐
+13. <span style="background-color: #FFFF00">The price should be reasonable.</span>⭐⭐⭐
+14. <span style="background-color: #FFFF00">It is efficient and user-friendly.</span>⭐⭐⭐
+15. <span style="background-color: #FFFF00">The device will be able to work in any environment.</span>⭐⭐⭐
+16. <span style="background-color: #FFFF00">The device has a clear screen to read.</span>⭐⭐
+17. <span style="background-color: #FFFF00">Be able to see previous weather patterns.</span>⭐
+18. <span style="background-color: #FFFF00">Effortlessly manages various devices.</span>⭐
+19. <span style="background-color: #00FBFF">The device can change to different settings.</span>⭐⭐
+20. <span style="background-color: #00FBFF">The internet speed should be fast.</span>⭐⭐
+21. <span style="background-color: #00FBFF">The device is compatible with other software.</span>⭐
+22. <span style="background-color: #00FBFF">It saves you time to be more productive.</span>⭐
+23. <span style="background-color: #00FBFF">The product should be easy to use.</span>⭐⭐
+24. <span style="background-color: #00FBFF">The weather station is easy to set up.</span>⭐⭐
+
+![image](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/279f0c02-9468-4879-a418-b568ab6c2f68)
+
+#### Safety/Maintenance
+1. <span style="background-color: #FFFF00">The device is reliable.</span>⭐⭐⭐
+2. <span style="background-color: #FFFF00">The device is protected from damage due to the elements.</span>⭐⭐⭐
+3. <span style="background-color: #FFFF00">The product is easy to assemble/disassemble.</span>⭐⭐
+4. <span style="background-color: #FFFF00">The product has material that is safe to touch.</span>⭐⭐
+5. <span style="background-color: #FFFF00">The product is safe to use for all ages.</span>⭐⭐
+6. <span style="background-color: #FFFF00">The firmware should be stable.</span>⭐⭐⭐
+7. <span style="background-color: #FFFF00">The fan speed should be sustainable.</span>⭐⭐⭐
+8. <span style="background-color: #FFFF00">Multiple product features.</span>⭐
+9. <span style="background-color: #00FBFF">Easy to troubleshoot.</span>⭐⭐
+10. <span style="background-color: #00FBFF">There should not be a frequent loss of connectivity.</span>⭐
+11. <span style="background-color: #00FBFF">It prevents diseases caused by high humidity.</span>⭐⭐⭐
+12. <span style="background-color: #00FBFF">The device is easy to upgrade.</span>⭐
+13. <span style="background-color: #00FBFF">The device is easy to repair.</span>⭐⭐
+14. <span style="background-color: #00FBFF">The product can be interchangeable.</span>⭐
+15. <span style="background-color: #00FBFF">There should be an allowance for different options.</span>⭐
+
+![image](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/2f152a7d-bc41-4998-80d9-277bb4fb82c3)
+
+![image](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/c297c32d-413d-4765-af78-07c33f1be4a9)
+
+#### Information/Hardware
+1. <span style="background-color: #FFFF00">The weather station is high quality.</span>⭐⭐⭐
+2. <span style="background-color: #FFFF00">The product allows users to download data.</span>⭐
+3. <span style="background-color: #FFFF00">The product can help to learn about the weather.</span>⭐⭐
+4. <span style="background-color: #FFFF00">The device tracks and records data over time.</span>⭐⭐⭐
+5. <span style="background-color: #FFFF00">The device moves based on the weather.</span>⭐⭐
+6. <span style="background-color: #FFFF00">It should have a large amount of data storage.</span>⭐
+7. <span style="background-color: #FFFF00">The weather station needs to be made of good material.</span>⭐⭐
+8. <span style="background-color: #FFFF00">The device should be small and compact.</span> ⭐
+9. <span style="background-color: #FFFF00">The environment sensor is affordable.</span> ⭐⭐
+10. <span style="background-color: #FFFF00">It can catch water to use for watering plants.</span>⭐⭐
+11. <span style="background-color: #FFFF00">The environment sensor is well made.</span>⭐⭐⭐
+12. <span style="background-color: #FFFF00">The device can show environmental conditions with a high definition camera.</span>⭐⭐
+13. <span style="background-color: #FFFF00">The system is mobile.</span>⭐⭐⭐
+14. <span style="background-color: #FFFF00">The WiFi service should be at an adequate distance.</span>⭐
+15. <span style="background-color: #FFFF00">The product has wireless control.</span>⭐⭐
+16. <span style="background-color: #FFFF00">The product is made of high quality materials.</span>⭐⭐⭐
+17. <span style="background-color: #FFFF00">The software is simple and easy to use.</span>⭐⭐
+18. <span style="background-color: #FFFF00">The product is fun to use.</span>⭐
+19. <span style="background-color: #FFFF00">The directions to set up are easy to read.</span>⭐⭐
+20. <span style="background-color: #FFFF00">The product is affordable.</span> ⭐⭐
+21. <span style="background-color: #FFFF00">There should not be confusing UI with numerous coding bugs.</span>⭐⭐
+22. <span style="background-color: #FFFF00">The product on the base model has good Wi-Fi.</span>⭐
+23. <span style="background-color: #FFFF00">There should be limitless scheduling.</span>⭐
+24. <span style="background-color: #00FBFF">Ensure precise fan control based on humidity.</span>⭐⭐⭐
+25. <span style="background-color: #00FBFF">The weather station needs to be working after a period of time.</span>⭐⭐
+26. <span style="background-color: #00FBFF">The weather station is easy to build.</span>⭐
+
+![image](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/c8191c4a-9f1b-4805-8e16-99dab8d10d0c)
+
+#### Power
+1. <span style="background-color: #FFFF00">The device has power to control external equipment.</span>⭐⭐⭐
+2. <span style="background-color: #FFFF00">The project provides enough power to the whole system.</span>⭐⭐⭐
+3. <span style="background-color: #FFFF00">The power being used is AC.</span>⭐⭐
+4. <span style="background-color: #00FBFF">The process to recharge should be smooth.</span>⭐
+5. <span style="background-color: #00FBFF">The product can handle the power given.</span>⭐⭐⭐
+6. <span style="background-color: #00FBFF">The device is powered by renewable energy.</span>⭐⭐
+
+## 3. Organize
+# Project Weather Station - Requirements Document
+### EGR 314
+### Project Team 308: Shawn Meris, Matthew Olpin, Gabriel Sandys and Heng- Jui Chang
+###Date of Creation: 1/17/2024
+
+## Version 1.0
+
+### Introduction
+
+Global warming has been on the rise for the past few years. There are many people concerned about where the world is going and where it will be in the future. There are many different products out there on the market that can measure temperature, humidity, atmospheric pressure, and wind speed. The team would like to create more reliable and efficient products to track the environment.
+
+### Objectives
+
+This project uses sensors in a system for a mobile weather station to detect different weather conditions and let the user know of those weather conditions. The weather station should be able to track these conditions with a motor controller.
+
+### Stakeholders
+
+#### Target Group:
+Individuals and organizations concerned about environmental monitoring and global warming. Encompassing environmental advocates, scientists, researchers, educational institutions, and even businesses with interests in weather-related data.
+
+#### Target Purchaser:
+Organizations or individuals directly involved in environmental monitoring, research, or education. This could include scientific institutions, environmental agencies, educational organizations, and individuals interested in personal weather tracking.
+
+#### Customer Service:
+Customer service would need to cater to both individual users and institutional clients. It should include technical support for setting up and using the mobile weather station, troubleshooting assistance, and responsiveness to inquiries regarding product features. Since the project involves technology like sensors and motor controllers, a customer service team should be knowledgeable about the technical aspects of the product.
+
+#### Marketing & Sales:
+The marketing strategy for our project would target environmental enthusiasts, scientists, and businesses. We will emphasize reliability, efficiency, and advanced sensor technology, showcasing its role in weather station technology.
+
+#### Retailers:
+Retailers that specialize in scientific equipment, environmental monitoring devices, or educational tools may be suitable for carrying this product. 
+
+#### Regulatory Instances:
+Depending on the region, there may be regulations regarding the use of mobile vehicles or the collection and transmission of environmental data. Compliance with environmental and data privacy regulations should be ensured, and consultation with relevant regulatory bodies may be necessary.
+
+### Use Cases
+
+#### User Story #1:
+Researchers and scientists can leverage the sensors of the weather station to conduct in-depth studies on weather patterns, climate change, and atmospheric conditions. The device could possibly measure temperature, humidity, atmospheric pressure, or wind speed to provide comprehensive data for detailed analyses. For instance, meteorological research projects focused on understanding local microclimates or investigating the impacts of climate change can benefit from the precise and real-time data collected by the project.
+
+#### User Story #2:
+Another valuable use case for the project involves everyday citizens utilizing weather data for personal purposes. Whether monitoring daily weather, conducting personal research, or engaging in casual conversations about weather patterns, the device provides real-time information to enhance individual understanding.
+
+### Aspects
+
+#### 1. Hardware / Product Design
+- The device should have high-quality materials.
+- The device should be small and compact for the user to move around with ease.
+- The sensors (humidity, light, temperature, etc.) within the device should be easy to use and work.
+- The device should be weather resistant.
+- The device should have a battery that is both sufficient and sustainable.
+- The device should be able to have good data storage.
+- The device should be durable and usable for at least one person.
+
+#### 2. Software / Functionality
+- The device should be able to monitor data.
+- The device should have a data processing algorithm.
+- The device should control an actuator based on data.
+- The device should provide feedback to the user.
+- The device should be able to handle being constantly used.
+
+#### 3. Interactivity & User Experience
+- The device should allow users to download/view data.
+- The device should guide users through the product.
+- The device should allow users to activate different inputs.
+
+#### 4. Customization
+- The device should allow users to monitor specific patterns.
+- The device should allow users to customize parts of its appearance.
+- The device should be able to be used by people of all ages.
+
+#### 5. Manufacturing
+- The device should use surface-mounted components.
+- The device can have 3D printed housing.
+- The device can use metal for structural integrity.
+- The device should be designed using ECAD software (Cadence).
+- The device should be built so that repairs, modifications, and replacements can be made without rebuilding the device.
+
+#### 6. Safety
+- The device should have no exposed wiring.
+- All actuators should be clearly labeled and be in a safe operating environment.
+- The device should have clear instructions for safe use.
+- The device should not have sharp or rough edges.
+- Charging the battery should be able to be done without the risk of electric shock.
+
+### Open Questions
+
+- How can the device be safe for both the user and against the environment?
+- Do two prismatic actuators moving across a designated workspace meet the mobility requirement?
+- Should we meet specific dimension requirements?
+- Can the device be used over a span of 24 hours?
+
+### Milestones
+
+- Team Checkpoint 1: 1/26/2024
+- Team Checkpoint 2: 3/12/2024
+- Team System Prototype: 3/29/2024
+- Team Checkpoint 3: 4/26/2024 
+- Innovation Showcase: 4/26/2024
