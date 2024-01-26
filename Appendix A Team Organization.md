@@ -1,3 +1,5 @@
+# Team Organization
+
 ## Communication Channels
 
 | Name | First Choice Communication | Second Choice Communication  | Third Choice Communication |
