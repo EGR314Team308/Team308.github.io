@@ -15,12 +15,12 @@ We will communicate through group text and Zoom (if needed) asynchronously and m
 
 We will meet before class from 10am-12pm on Monday-Wednesday. We will also meet from 6-8pm on Monday and Tuesday if more work is needed.
 
-| People | First Choice Communication | Second Choice Communication  | Third Choice Communication |
+| People | Abbreviation | Email | Phone |
 |:-------------:| :-------------: | :-------------: | :-------------: |
-| Shawn Meris | Text or phone call | Email  | Discord |
-| Gabriel Sandys| Text or phone call  | Discord  | Email  |
-| Matt Olpin  | Text | Email | Phone call  |
-| Hengjui (Roy) Chang  | Text or phone call | Discord  | Email |
+| Shawn | S | smeris@asu.edu | 949-939-9859 |
+| Matt | M | molpin@asu.edu | 602-576-4233 |
+| Roy | R | hchange@asu.edu | 360-522-5532 |
+| Gabriel | G | gsandys@asu.edu | 480-686-2717 |
 
 Methods of Group Communication
 1. Group Text
@@ -38,17 +38,12 @@ Methods of Group Communication
  
 ## Roles and Responsibilities
 
-Role
-Duties
-Meeting Leader (Gabriel)
-Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting
-Meeting Recorder (Matt)
-Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned
-Assignment Leader (Shawn)
-Coordinates the team's work on a given assignment to Canvas before the due date
-Project Monitor (Roy)
-Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status
-
+| Role  | Duties |
+| :-------------: | :-------------: |
+| Meeting Leader (Gabriel)  | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting  |
+| Meeting Recorder (Matt)  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned  |
+| Assignment Leader (Shawn) | Coordinates the team's work on a given assignment to Canvas before the due date  |
+| Project Monitor (Roy) | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
 We will have rotating roles which will change once a month based on knowledge and significance on each assignment and project. We will meet weekly to help one another meet each other's responsibilities. We will check in with everyone in our meetings either in person or over Zoom if they have certain issues about the project. We will follow the team activities and track milestones through the group text. Technical responsibilities will be assigned team members based on their skill set of the given task.
 
@@ -64,8 +59,8 @@ We will meet and communicate in our group chat regularly about our progress and 
 
 
 ## Signatures 
-Team 308 
-Shawn Meris
-Hengjui Chang
-Matt Olpin
-Gabriel Sandys
+Team 308 <br>
+Shawn Meris <br>
+Hengjui Chang <br>
+Matt Olpin <br>
+Gabriel Sandys <br>
