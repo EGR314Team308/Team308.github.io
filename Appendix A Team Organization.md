@@ -15,7 +15,7 @@ We will communicate through group text and Zoom (if needed) asynchronously and m
 
 We will meet before class from 10am-12pm on Monday-Wednesday. We will also meet from 6-8pm on Monday and Tuesday if more work is needed.
 
-![image caption]![TeamSchedule](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/d5b10330-c3e6-4ba9-9902-58fb7b7edb90)
+![TeamSchedule](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/d5b10330-c3e6-4ba9-9902-58fb7b7edb90)
 
 | People | Abbreviation | Email | Phone |
 |:-------------:| :-------------: | :-------------: | :-------------: |
