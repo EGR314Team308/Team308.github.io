@@ -39,6 +39,16 @@ Below is the Appendix A: Team Organization <br>
 
 [Link to Appendix A: Team Organization](Appendix A Team Organization.md) <br>
 
+## User Needs, Benchmarking, and Requirements
+
+The team started the user needs process by finding and writing down 5 different products that relate to a mobile weather station. The purpose of this was to see the good and bad reviews that were on these products in order to either implement or provide aspects that the device did not. This allows the team to see the user needs in the available market. Below in the link are the 5 products or Voice of the Customer Benchmarking that the team chose.
+
+# Organize
+
+The team organized the 100 user needs below based on the latent and explicit to see the main problems with current products. This allowed the teams to combine and split the user needs into 8 different catagories. 
+
+# Develop Requirements
+
 [Link to User Needs, Benchmarking, and Requirements](User Needs, Benchmarking, and Requirements.md) <br>
 [Link to Design Ideation](Design Ideation.md) <br>
 [Link to Presentation 1](Presentation 1.md) <br>
