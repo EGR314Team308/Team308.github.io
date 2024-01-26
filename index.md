@@ -72,11 +72,15 @@ Gabriel created the Greenhouse Regulation System in Blender, Roy created the Mar
 
 Greenhouse Regulation System
 
-![iso](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/539d6bde-eb0b-4e19-81c7-2afff471da85)
+![Green](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/0ff56bb9-99ef-44c9-9b0d-c12f9e677db1)
 
 Mars Weather Station
 
+![Mars](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/da56910c-823f-4eec-80ae-6116fd7e4e59)
+
 Wind Farm Weather Station
+
+![Wind](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/0b655a87-bd64-420e-8cf7-cdd9fc9b08e8)
 
 
 [Link to Design Ideation](Design Ideation.md) <br>
