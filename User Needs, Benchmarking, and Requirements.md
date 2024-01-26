@@ -1,3 +1,27 @@
 User Needs, Benchmarking, and Requirements
 
-<a href="/pdfs/Team 308 User Needs, Benchmarking, and Requirements.pdf" class="image fit"></a>
+
+![Team 308 User Needs, Benchmarking, and Requirements-01](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/5a31a220-9622-44fa-b1e9-741d215af2c0)
+![Team 308 User Needs, Benchmarking, and Requirements-02](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/a5e60a06-12ff-41a4-9e64-c476b2e2054d)
+![Team 308 User Needs, Benchmarking, and Requirements-03](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/1d986048-e077-426c-acd7-a62ad10c17cf)
+![Team 308 User Needs, Benchmarking, and Requirements-04](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/8f1a2b71-013b-4d34-9231-245521c57cd6)
+![Team 308 User Needs, Benchmarking, and Requirements-05](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/eb1ea530-96bc-4593-bce0-afb820f34dba)
+![Team 308 User Needs, Benchmarking, and Requirements-06](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/b60f5c94-cb99-4e45-9d0b-d08c63d1bfa3)
+![Team 308 User Needs, Benchmarking, and Requirements-07](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/348e29d1-b27a-4365-af3e-c3f8521ee633)
+![Team 308 User Needs, Benchmarking, and Requirements-08](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/7f2c0d6f-40f2-4789-8e71-36481c209a13)
+![Team 308 User Needs, Benchmarking, and Requirements-09](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/33f47c9f-24a9-4cad-8898-7e2485b6a353)
+![Team 308 User Needs, Benchmarking, and Requirements-10](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/8b09963c-b69a-4d94-9eb3-2c21334e2f8b)
+![Team 308 User Needs, Benchmarking, and Requirements-11](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/f972dd24-da49-43a8-ad35-bb63d0b0871e)
+![Team 308 User Needs, Benchmarking, and Requirements-12](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/29236946-ae50-4a88-a008-d830bc061e2a)
+![Team 308 User Needs, Benchmarking, and Requirements-13](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/ff47d79e-7ad8-46f6-bf86-379432f47453)
+![Team 308 User Needs, Benchmarking, and Requirements-14](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/ed5119e4-a611-4164-ab0d-8d95aa6a1899)
+![Team 308 User Needs, Benchmarking, and Requirements-15](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/4de9bf57-e5f1-470b-b6a8-9caa49151caf)
+![Team 308 User Needs, Benchmarking, and Requirements-16](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/63233ecb-21b8-4189-80bd-8b51b229da8e)
+![Team 308 User Needs, Benchmarking, and Requirements-17](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/f43983ec-1bf9-4217-82be-8712e76b6d3f)
+![Team 308 User Needs, Benchmarking, and Requirements-18](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/14f95f41-8269-4dc0-9651-eb687074e2bf)
+![Team 308 User Needs, Benchmarking, and Requirements-19](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/918957f7-5d2a-43f4-83ed-3cf5ecc0db24)
+![Team 308 User Needs, Benchmarking, and Requirements-20](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/c3dbccd7-a8bc-43d6-baad-2baa5e56590f)
+![Team 308 User Needs, Benchmarking, and Requirements-21](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/3b1eb06f-79f5-4146-acb2-1ea2d39859d9)
+![Team 308 User Needs, Benchmarking, and Requirements-22](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/e4a78eb3-4459-417f-b2ed-ef46d1bdbd9c)
+![Team 308 User Needs, Benchmarking, and Requirements-23](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/977ad9af-675c-47e9-863d-1a26ae0c3a20)
+![Team 308 User Needs, Benchmarking, and Requirements-24](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/df816e6c-9914-43b9-8017-2479593893d6)
