@@ -175,3 +175,144 @@ Explicit user needs will be highlighted or colored yellow and latent will be hig
 - It prevents diseases caused by high humidity.
 - The product can handle the power given.
 - The internet speed should be fast.
+
+## 2. Organize
+
+![image](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/d057af81-daf7-46ec-8098-991f4a8fe516)
+
+<span style="background-color: #FFFF00">Explicit</span>
+
+1. The weather station has bright colors.
+2. The weather station is easy to read.
+3. The weather station is high quality.
+4. The weather station needs the temperature to be right.
+5. The weather station needs to be made of good material.
+6. The environment sensor is affordable.
+7. The environment sensor is accurate.
+8. The environment sensor is useful and works.
+9. The environment sensor gives feedback in a timely manner.
+10. The environment sensor is well made.
+11. The system is mobile.
+12. The project provides enough power to the whole system.
+13. It has a serviceable internet connection.
+14. The information should be accurate and precise.
+15. It is efficient and user-friendly.
+16. The product is made of high-quality materials.
+17. The software is simple and easy to use.
+18. The product is fun to use.
+19. The product is safe to use for all ages.
+20. The product is affordable.
+21. The device has the correct temperature.
+22. The device has the correct humidity.
+23. The device has the correct atmospheric pressure.
+24. The device has the correct wind speed.
+25. The device has CO2 sensors.
+26. The device can detect pollution levels.
+27. The device can detect harmful elements in the air.
+28. The device can detect the amount of sunlight exposure.
+29. The device can measure the amount of precipitation.
+30. The device can detect the types of precipitation.
+31. The device is reliable.
+32. The device has power to control external equipment.
+33. The device can communicate wirelessly.
+34. The device can track energy consumption.
+35. The device can determine wind direction.
+36. The device can show environmental conditions with a high-definition camera.
+37. The device is protected from damage due to the elements.
+38. The device is able to adjust to allow for changes in the environment.
+39. The device tracks and records data over time.
+40. The device can measure UV radiation.
+41. The product has wireless control.
+42. The device will be able to work in any environment.
+43. The device has a clear screen to read.
+44. The product has material that is safe to touch.
+45. The directions to set up are easy to read.
+46. The firmware should be stable.
+47. The fan speed should be sustainable.
+48. There should not be confusing UI with numerous coding bugs.
+49. The project should be able to automate control for exhaust.
+50. The project should be able to automate control for the humidifier.
+51. The project should be able to automate control for the heater.
+52. The project should be able to automate control for light.
+53. The product, on the base model, has good Wi-Fi.
+54. Effortlessly manages various devices.
+55. There should be limitless scheduling.
+56. Be able to see previous weather patterns.
+57. Alerting users of weather changes.
+58. The product is easy to assemble.
+59. The power being used is AC.
+60. The price should be reasonable.
+61. The project should be able to be used in high winds.
+62. Rain should not damage electronics.
+63. The WiFi service should be at an adequate distance.
+64. The product can help to learn about the weather.
+65. The device can show moon phases.
+66. The project can detect rain and snow.
+67. It can catch water to use for watering plants.
+68. Collects data on the weather for future forecasts.
+69. The device can be protected from electricity.
+70. The product can be protected from rain.
+71. The project can be protected from hail.
+72. The station can be protected from snow.
+73. The device should be small and compact.
+74. It should have a large amount of data storage.
+75. The device moves based on the weather.
+76. The product allows users to download data.
+77. Be used for personal weather tracking.
+78. Multiple product features.
+79. The station is designed based on the location of the user.
+80. The device can provide real-time information about the weather.
+
+<span style="background-color: #00FBFF">Latent</span>
+
+1. The weather station is easy to set up.
+2. The weather station is easy to build.
+3. The weather station needs to be working after a period of time.
+4. The environment sensor has good sensitivity.
+5. The product should be easy to use.
+6. It saves you time to be more productive.
+7. The product can be interchangeable.
+8. There should be an allowance for different options.
+9. The device is easy to upgrade.
+10. The device is easy to repair.
+11. The device is powered by renewable energy.
+12. The device is compatible with other software.
+13. It prevents diseases caused by high humidity.
+14. The product can handle the power given.
+15. The internet speed should be fast.
+16. There should not be a frequent loss of connectivity.
+17. Ensure precise fan control based on humidity.
+18. Easy to troubleshoot.
+19. The process to recharge should be smooth.
+20. The device can change to different settings.
+
+### Grouped List
+
+![image](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/62b1e46b-2c12-4e6d-b081-eb319a819b3a)
+
+1. The device can detect <span style="background-color: #FFFF00">pollution levels.</span>⭐
+2. The device can detect <span style="background-color: #FFFF00">harmful elements in the air.</span>⭐⭐
+3. The weather station needs the <span style="background-color: #FFFF00">temperature to be right.</span>⭐⭐⭐
+4. The device can detect the <span style="background-color: #FFFF00">amount of sunlight exposure.</span>⭐
+5. The device can measure the <span style="background-color: #FFFF00">amount of precipitation.</span>⭐⭐
+6. The device can detect the <span style="background-color: #FFFF00">types of precipitation.</span>⭐
+7. The environment sensor is <span style="background-color: #FFFF00">accurate.</span>⭐⭐⭐
+8. Collects data on the <span style="background-color: #FFFF00">weather for future forecasts.</span>⭐⭐
+9. The device can <span style="background-color: #FFFF00">track energy consumption.</span>⭐
+10. The project can detect <span style="background-color: #FFFF00">rain and snow.</span>⭐⭐
+11. The device can determine <span style="background-color: #FFFF00">wind direction.</span>⭐⭐⭐
+12. The device can measure <span style="background-color: #FFFF00">UV radiation.</span>⭐
+13. The <span style="background-color: #FFFF00">information should be accurate and precise.</span>⭐⭐⭐
+14. <span style="background-color: #FFFF00">Alerting users of weather changes.</span>⭐
+15. The device has the <span style="background-color: #FFFF00">correct temperature.</span>⭐⭐⭐
+16. The device has the <span style="background-color: #FFFF00">correct humidity.</span>⭐⭐⭐
+17. The device has the <span style="background-color: #FFFF00">correct atmospheric pressure.</span>⭐⭐⭐
+18. The device has the <span style="background-color: #FFFF00">correct wind speed.</span>⭐⭐⭐
+19. The device has <span style="background-color: #FFFF00">CO2 sensors.</span>⭐
+20. The station is <span style="background-color: #FFFF00">designed based on the location of the user.</span>⭐
+21. The project should be able to <span style="background-color: #FFFF00">automate control for exhaust.</span>⭐
+22. The project should be able to <span style="background-color: #FFFF00">automate control for the humidifier.</span>⭐
+23. The project should be able to <span style="background-color: #FFFF00">automate control for the heater.</span>⭐
+24. The project should be able to <span style="background-color: #FFFF00">automated control for light.</span>⭐⭐
+25. The device can <span style="background-color: #FFFF00">provide real-time information about the weather.</span>⭐⭐
+26. The environment sensor has <span style="background-color: #FFFF00">good sensitivity.</span>⭐⭐
