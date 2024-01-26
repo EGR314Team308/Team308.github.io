@@ -49,7 +49,7 @@ The team organized the 100 user needs below based on the latent and explicit to 
 
 # Develop Requirements
 
-[Link to User Needs, Benchmarking, and Requirements](Team 308 User Needs, Benchmarking, and Requirements.pdf) <br>
+[Link to User Needs, Benchmarking, and Requirements](User Needs, Benchmarking, and Requirements.md) <br>
 [Link to Design Ideation](Design Ideation.md) <br>
 [Link to Presentation 1](Presentation 1.md) <br>
 
