@@ -3,38 +3,13 @@
 | Name | First Choice Communication | Second Choice Communication  | Third Choice Communication |
 |:-------------:| :-------------: | :-------------: | :-------------: |
 | Shawn Meris | Text or phone call | Email  | Discord |
-| Content Cell | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Gabriel Sandys| Text or phone call  | Discord  | Email  |
+| Matt Olpin  | Text | Email | Phone call  |
+| Hengjui (Roy) Chang  | Text or phone call | Discord  | Email |
 
-
-Gabriel Sandys
-Text or phone call
-Discord
-Email
-Matt Olpin
-Text
-Email
-Phone call
-Hengjui (Roy) Chang
-Text or phone call
-Discord
-Email
-
-
-Communication Procedures
+## Communication Procedures
 
 We will communicate through group text and Zoom (if needed) asynchronously and meet in person before or after classes synchronously. The expectation is that all communication will be responded to promptly. We will handle instructor correspondence by informing each other with text messages to the group text.
-
-
-
-
-
-
-
-
-
-
 
 Meeting Schedule
 
