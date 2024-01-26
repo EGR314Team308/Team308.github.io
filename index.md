@@ -51,15 +51,23 @@ Below is the link to the User Needs, Benchmarking, and Requirements page.
 
 ## Design Ideation
 
-# Generate Ideas
+The team cam together during class and outside of class during the weekly meeting to generate ideas first on a list that would later be transfered over to a Jamboard. Each member wrote down the ideas they initially had about the project and then the group decided to talk through the rest to reach 100 ideas. Shawn and Matt were the primary members that wrote down the ideas and the group as a whole talked about and shared ideas. The brainstorming that worked was just adding ideas the group all had and talking through ideas. There were no brainstorming types that did not work because the group accepted all ideas and all the brainstorming technics used worked. Below is the Jamboard made by the team.
 
-# Sort, Rank, and Group Design Concepts
+### Generate Ideas
 
-# Create three product concept sketches
+### Sort, Rank, and Group Design Concepts
+
+The process for organizing and ranking ideas was seeing if there were any patterns between the 100 ideas and separating them in 3 different groups. The three groups were separated into Locations, Environment Control and Use Cases. The team ranked the ideas from 1 star to 3 stars based on the user needs above and if they cover the project and product requirements. The three groups are shown below along with the ranks of each one on a Jamboard.
+
+### Create three product concept sketches
+
+Gabriel created the Greenhouse Regulation System in Blender, Roy created the Mars Weather Station in Solidworks and Matt made the Wind Farm Weather Station. Below are Team 308s product concept sketches.
 
 [Link to Design Ideation](Design Ideation.md) <br>
 
 ## Presentation 1
+
+The link provided below is the Presentation for Team 308.
 
 [Link to Presentation 1](Presentation 1.md) <br>
 
