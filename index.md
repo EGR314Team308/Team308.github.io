@@ -42,10 +42,59 @@ The team started the user needs process by finding and writing down 5 different 
 
 The team organized the 100 user needs below based on the latent and explicit to see the main problems with current products. This allowed the teams to combine and split the user needs into 5 different catagories. The 5 categories are Sensors, Usability/Software, Safety/Maintenance, Information/Hardware and Power. The team assigned weight to important user needs based on team discussion this is shown by the ranking of 1 star, 2 star or 3 star ranking.
 
+![image](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/d057af81-daf7-46ec-8098-991f4a8fe516)
+![SensorS](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/7ed352bd-7ddd-4663-8783-e719bf49d40c)
+![UseS](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/38159989-68a0-45eb-9d27-aed1d7bf1b9c)
+![SafeS](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/50b7bb8d-cb4f-4ccf-97fa-c50198d12d7c)
+![InfoS](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/f407e896-4518-45e7-a39c-7e42977d22e5)
+![PowerS](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/9521df59-0865-4408-9f0f-95a5ad3fce73)
+
 ### Develop Requirements
 
 The team converted the user needs into specifications by deciding which user needs are the most important and how the team can provide the necesities that users need. The design of the product by the team will incorporate the aspects of both the user needs and the product requirements.
 Below is the link to the User Needs, Benchmarking, and Requirements page.
+
+### Aspects
+
+#### 1. Hardware / Product Design
+- The device should have high-quality materials.
+- The device should be small and compact for the user to move around with ease.
+- The sensors (humidity, light, temperature, etc.) within the device should be easy to use and work.
+- The device should be weather resistant.
+- The device should have a battery that is both sufficient and sustainable.
+- The device should be able to have good data storage.
+- The device should be durable and usable for at least one person.
+
+#### 2. Software / Functionality
+- The device should be able to monitor data.
+- The device should have a data processing algorithm.
+- The device should control an actuator based on data.
+- The device should provide feedback to the user.
+- The device should be able to handle being constantly used.
+
+#### 3. Interactivity & User Experience
+- The device should allow users to download/view data.
+- The device should guide users through the product.
+- The device should allow users to activate different inputs.
+
+#### 4. Customization
+- The device should allow users to monitor specific patterns.
+- The device should allow users to customize parts of its appearance.
+- The device should be able to be used by people of all ages.
+
+#### 5. Manufacturing
+- The device should use surface-mounted components.
+- The device can have 3D printed housing.
+- The device can use metal for structural integrity.
+- The device should be designed using ECAD software (Cadence).
+- The device should be built so that repairs, modifications, and replacements can be made without rebuilding the device.
+
+#### 6. Safety
+- The device should have no exposed wiring.
+- All actuators should be clearly labeled and be in a safe operating environment.
+- The device should have clear instructions for safe use.
+- The device should not have sharp or rough edges.
+- Charging the battery should be able to be done without the risk of electric shock.
 
 [Link to User Needs, Benchmarking, and Requirements](User Needs, Benchmarking, and Requirements.md) <br>
 
@@ -70,18 +119,24 @@ The process for organizing and ranking ideas was seeing if there were any patter
 
 Gabriel created the Greenhouse Regulation System in Blender, Roy created the Mars Weather Station in Solidworks and Matt made the Wind Farm Weather Station. Below are Team 308s product concept sketches.
 
-Greenhouse Regulation System
+#### Greenhouse Regulation System
+The goal of the Greenhouse Regulation System would be to effectively cultivate the ideal environment for growing plants within the greenhouse. The current design would feature the ability to track internal and external data and identify what needs to be done to adjust the current environment within the greenhouse. This could include opening and closing greenhouse doors, dispersing water, etc. Solar panels would be placed directly above to help with power consumption, and a screen would be placed on the front to monitor data.
 
 ![Green](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/0ff56bb9-99ef-44c9-9b0d-c12f9e677db1)
 
-Mars Weather Station
+#### Mars Weather Station
+
+The Mars Weather Station is a robotic vehicle designed for exploring the surface and monitoring atmospheric conditions. The rover is equipped with sensors to study and report on weather patterns, temperature variations, atmospheric pressure, humidity, and wind speed on Mars.
 
 ![Mars](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/da56910c-823f-4eec-80ae-6116fd7e4e59)
 
-Wind Farm Weather Station
+#### Wind Farm Weather Station
+
+Turbines on wind farms need to be slowed and shut down when there is too much wind, icy conditions, or if there are birds or other animals flying through the area.  
+
+The weather station design below will detect these conditions and control the turbine by adjusting the direction of the turbine using a yaw drive to slow the turbine and braking and slowing by applying pressure to the shaft with a brake pin and stopping by inserting the pin into the axle shaft if lockout is needed.
 
 ![Wind](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/0b655a87-bd64-420e-8cf7-cdd9fc9b08e8)
-
 
 [Link to Design Ideation](Design Ideation.md) <br>
 
@@ -90,5 +145,3 @@ Wind Farm Weather Station
 The link provided below is the Presentation for Team 308.
 
 [Link to Presentation 1](Presentation 1.md) <br>
-
-
