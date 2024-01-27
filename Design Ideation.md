@@ -1,5 +1,5 @@
 # Design Ideation
-1. Generate Ideas
+## 1. Generate Ideas
 
 1. Air quality sensor for drone
 2. Air quality sensor for RC car
@@ -37,180 +37,180 @@
 34. Shade control and rain cover
 35. Wind protection, lower solar panel for example
 36. Wind turbine direction
--Shade for accurate temperature recording
--Open windows/vents
--Car that tracks temperature and humidity
--Mobile weather station that is powered by solar panels
--Device that tracks wind direction
--Product that holds storage and data of temperature
--Greenhouse that tracks temperature and moisture
--Fan controllers that counterbalance the wind speed
--Collects water when it rains and tracks temperature
--Tell the difference between rain and snowfall
--The device can be used for teaching about temperature and wind speed
--Track wind speed with wind chill temperature
--Used for predicting weather conditions
--Used for control of smart home
--Used for agriculture to track humidity
--Used for livestock enclosures to modify environment for animals
--Used for hydroponic grow systems
--Used to regulate conditions for aquaculture
--Used for military applications like wind speed
--Used to track weather conditions remotely for biology/environment study
--Used for backpacking conditions
--Used for solar power installation
--Used for a wind farm
--Used on a ship for tracking water temperature
--Used on Mars or in space track temperature and air pressure
--Used to predict waves
--Used to track hurricanes offshore
--Used to track conditions within thunderstorms
--Used to track conditions of a tornado
--Used to control humidity in a warehouse
--Used to determine what crops to grow in remote areas
--Used to collect data on climate change
--Used to determine/track conditions in a cave
--Used to determine/track conditions in a mine
--Used on top of a skyscraper
--Used on an RV for wind speed
--Used at an airport for atmospheric pressure measurements
--Used at a rocket launch site
--Used for passive heating cooling of homes/buildings
--Alerting users of weather changes
--Track moon phases
--Track Seismic activity
--Algorithm to predict future weather conditions based on data
--Track sea level
--Track tidal movement
--Takes cores for climate proxies
--Track soil nitrogen, phosphorus, potassium, etc.
--Track soil ph
--Tracks noise pollution
--Tracks atmospheric pressure
--Adjust UV light for crops
--Detects particulate concentrations
--Mobile cart that tracks air quality
--Drone that gives water to plants when needed
--Device that tracks wind speed and moves with it
--Tells when it is the most sunniest in a day
--Device used to teach kids about the weather
--Used to track weather in the rainforest
--Used to track weather in the Arctic/Antarctic
--Weather station on the moon
--Used to track weather in the desert
--Temperature/atmospheric regulation to optimize solar power generation/battery charging
--Temperature/atmospheric regulation to optimize data center/computer energy efficiency
--Temperature/atmospheric regulation to optimize manufacturing processes
+37. Shade for accurate temperature recording
+38. Open windows/vents
+39. Car that tracks temperature and humidity
+40. Mobile weather station that is powered by solar panels
+41. Device that tracks wind direction
+42. Product that holds storage and data of temperature
+43. Greenhouse that tracks temperature and moisture
+44. Fan controllers that counterbalance the wind speed
+45. Collects water when it rains and tracks temperature
+46. Tell the difference between rain and snowfall
+47. The device can be used for teaching about temperature and wind speed
+48. Track wind speed with wind chill temperature
+49. Used for predicting weather conditions
+50. Used for control of smart home
+51. Used for agriculture to track humidity
+52. Used for livestock enclosures to modify environment for animals
+53. Used for hydroponic grow systems
+54. Used to regulate conditions for aquaculture
+55. Used for military applications like wind speed
+56. Used to track weather conditions remotely for biology/environment study
+57. Used for backpacking conditions
+58. Used for solar power installation
+59. Used for a wind farm
+60. Used on a ship for tracking water temperature
+61. Used on Mars or in space track temperature and air pressure
+62. Used to predict waves
+63. Used to track hurricanes offshore
+64. Used to track conditions within thunderstorms
+65. Used to track conditions of a tornado
+66. Used to control humidity in a warehouse
+67. Used to determine what crops to grow in remote areas
+68. Used to collect data on climate change
+69. Used to determine/track conditions in a cave
+70. Used to determine/track conditions in a mine
+71. Used on top of a skyscraper
+72. Used on an RV for wind speed
+73. Used at an airport for atmospheric pressure measurements
+74. Used at a rocket launch site
+75. Used for passive heating cooling of homes/buildings
+76. Alerting users of weather changes
+77. Track moon phases
+78. Track Seismic activity
+79. Algorithm to predict future weather conditions based on data
+80. Track sea level
+81. Track tidal movement
+82. Takes cores for climate proxies
+83. Track soil nitrogen, phosphorus, potassium, etc.
+84. Track soil ph
+85. Tracks noise pollution
+86. Tracks atmospheric pressure
+87. Adjust UV light for crops
+88. Detects particulate concentrations
+89. Mobile cart that tracks air quality
+90. Drone that gives water to plants when needed
+91. Device that tracks wind speed and moves with it
+92. Tells when it is the most sunniest in a day
+93. Device used to teach kids about the weather
+94. Used to track weather in the rainforest
+95. Used to track weather in the Arctic/Antarctic
+96. Weather station on the moon
+97. Used to track weather in the desert
+98. Temperature/atmospheric regulation to optimize solar power generation/battery charging
+99. Temperature/atmospheric regulation to optimize data center/computer energy efficiency
+100. Temperature/atmospheric regulation to optimize manufacturing processes
 
-2. Sort, Rank, and Group Design Concepts
+## 2. Sort, Rank, and Group Design Concepts
 
-Categories:
+### Categories:
 
-Locations
-Sensors inside and outside with fans and misters  ⭐⭐⭐
-Track sunlight over time⭐⭐
-Weather station on the moon ⭐⭐⭐
-Used to track weather in the rainforest⭐⭐
-Used to track weather in the Arctic/Antarctic⭐⭐
-Track heat over time⭐
-Track temperature and precipitation over time⭐⭐
-Used for solar power installation⭐⭐
-Used on Mars or in space track temperature and air pressure⭐⭐⭐
-Greenhouse that tracks temperature and moisture⭐⭐⭐
-Used for control of smart home⭐⭐⭐
-Used for livestock enclosures to modify environment for animals⭐⭐
-Used for hydroponic grow systems⭐⭐
-Used for a wind farm⭐⭐⭐
-Used to determine/track conditions in a cave⭐⭐
-Used on a ship for tracking water temperature⭐⭐
-Used to determine/track conditions in a mine⭐⭐
-Used on top of a skyscraper⭐
-Used on an RV for wind speed⭐⭐
-Used at an airport for atmospheric pressure measurements⭐⭐
-Used at a rocket launch site⭐⭐
-Used for passive heating cooling of homes/buildings⭐⭐⭐
+#### Locations
+1. Sensors inside and outside with fans and misters  ⭐⭐⭐
+2. Track sunlight over time⭐⭐
+3. Weather station on the moon ⭐⭐⭐
+4. Used to track weather in the rainforest⭐⭐
+5. Used to track weather in the Arctic/Antarctic⭐⭐
+6. Track heat over time⭐
+7. Track temperature and precipitation over time⭐⭐
+8. Used for solar power installation⭐⭐
+9. Used on Mars or in space track temperature and air pressure⭐⭐⭐
+10. Greenhouse that tracks temperature and moisture⭐⭐⭐
+11. Used for control of smart home⭐⭐⭐
+12. Used for livestock enclosures to modify environment for animals⭐⭐
+13. Used for hydroponic grow systems⭐⭐
+14. Used for a wind farm⭐⭐⭐
+15. Used to determine/track conditions in a cave⭐⭐
+16. Used on a ship for tracking water temperature⭐⭐
+17. Used to determine/track conditions in a mine⭐⭐
+18. Used on top of a skyscraper⭐
+19. Used on an RV for wind speed⭐⭐
+20. Used at an airport for atmospheric pressure measurements⭐⭐
+21. Used at a rocket launch site⭐⭐
+22. Used for passive heating cooling of homes/buildings⭐⭐⭐
 
-Environment Control
-Air quality sensor for drone⭐⭐
-Air quality sensor for RC car⭐
-Turn on heater if prevent freezing⭐
-Greenhouse temperature regulator⭐⭐⭐
-Greenhouse moisture regulation⭐⭐
-Control humidifiers and evaporation levels⭐⭐⭐
-Used for agriculture to track humidity⭐⭐
-Wind speed and wind direction⭐
-Track evaporation and air pressure⭐
-Turn on cooling system if overheating⭐⭐
-Track precipitation amount⭐
-Device that tracks wind speed and moves with it⭐
-Track precipitation type⭐
-Track temperature and humidity⭐ ⭐
-Mobile cart that tracks air quality⭐⭐⭐
-Drone that gives water to plants when needed⭐⭐
-Control heater with sunshield⭐
-Shade control and rain cover⭐⭐
-Wind protection, lower solar panel for example⭐⭐
-Track UV amounts⭐
-Adjust UV light for crops⭐
-Used to track weather conditions remotely for biology/environment study⭐
-Track wind direction and wind speed⭐⭐
-Track air pressure⭐
-Shade for accurate temperature recording⭐
-Open windows/vents⭐
-Lightning risk detection⭐
-Fan controllers that counterbalance the wind speed⭐
-Used to track hurricanes offshore⭐⭐
-Used to track conditions within thunderstorms⭐⭐
-Used to track conditions of a tornado⭐⭐
-Used to control humidity in a warehouse⭐⭐
+#### Environment Control
+1. Air quality sensor for drone⭐⭐
+2. Air quality sensor for RC car⭐
+3. Turn on heater if prevent freezing⭐
+4. Greenhouse temperature regulator⭐⭐⭐
+5. Greenhouse moisture regulation⭐⭐
+6. Control humidifiers and evaporation levels⭐⭐⭐
+7. Used for agriculture to track humidity⭐⭐
+8. Wind speed and wind direction⭐
+9. Track evaporation and air pressure⭐
+10. Turn on cooling system if overheating⭐⭐
+11. Track precipitation amount⭐
+12. Device that tracks wind speed and moves with it⭐
+13. Track precipitation type⭐
+14. Track temperature and humidity⭐ ⭐
+15. Mobile cart that tracks air quality⭐⭐⭐
+16. Drone that gives water to plants when needed⭐⭐
+17. Control heater with sunshield⭐
+18. Shade control and rain cover⭐⭐
+19. Wind protection, lower solar panel for example⭐⭐
+20. Track UV amounts⭐
+21. Adjust UV light for crops⭐
+22. Used to track weather conditions remotely for biology/environment study⭐
+23. Track wind direction and wind speed⭐⭐
+24. Track air pressure⭐
+25. Shade for accurate temperature recording⭐
+26. Open windows/vents⭐
+27. Lightning risk detection⭐
+28. Fan controllers that counterbalance the wind speed⭐
+29. Used to track hurricanes offshore⭐⭐
+30. Used to track conditions within thunderstorms⭐⭐
+31. Used to track conditions of a tornado⭐⭐
+32. Used to control humidity in a warehouse⭐⭐
 
-Use cases
-Temperature/atmospheric regulation to optimize manufacturing processes⭐⭐
-Temperature/atmospheric regulation to optimize data center/computer energy efficiency⭐⭐
-Temperature/atmospheric regulation to optimize solar power generation/battery charging⭐
-Used to track weather in the desert⭐
-Detect CO2 in the air⭐⭐
-Device used to teach kids about the weather⭐
-Detect contaminants in the air⭐⭐
-Tells when it is the most sunniest in a day⭐
-Detect contaminants in the precipitation⭐⭐
-Detect harmful chemical levels⭐⭐⭐
-Calculate sun angles⭐⭐⭐
-Used to regulate conditions for aquaculture⭐⭐
-Wind turbine direction⭐⭐⭐
-Detects particulate concentrations⭐⭐
-Used for military applications like wind speed⭐⭐
-Solar panel adjust to face sun⭐⭐⭐
-Track sea level⭐⭐⭐
-Alerting users of weather changes⭐⭐⭐
-Track tidal movement⭐⭐
-Takes cores for climate proxies⭐
-Track soil nitrogen, phosphorus, potassium, etc.⭐
-Track soil ph⭐
-Track moon phases⭐⭐
-Track Seismic activity⭐⭐
-Shut down when wind speed is high⭐⭐
-Algorithm to predict future weather conditions based on data⭐⭐⭐
-Tracks noise pollution⭐⭐
-Tracks atmospheric pressure⭐⭐
-Used for backpacking conditions⭐
-Control air pressure in a subsystem⭐⭐
-Car that tracks temperature and humidity⭐⭐
-Mobile weather station that is powered by solar panels⭐⭐⭐
-Device that tracks wind direction⭐
-Product that holds storage and data of temperature⭐⭐
-Shut down when wind direction is wrong⭐⭐
-Adjust wind turbine to operate in different wind directions⭐⭐
-Adjust wind turbine to operate in different wind speeds⭐⭐
-Used to predict waves⭐
-Collects water when it rains and tracks temperature⭐⭐
-Tell the difference between rain and snowfall⭐⭐⭐
-The device can be used for teaching about temperature and wind speed⭐⭐
-Track wind speed with wind chill temperature⭐⭐
-Used for predicting weather conditions⭐⭐
-Detect static electric charge⭐⭐
-Used to determine what crops to grow in remote areas⭐
-Used to collect data on climate change⭐⭐⭐
+#### Use cases
+1. Temperature/atmospheric regulation to optimize manufacturing processes⭐⭐
+2. Temperature/atmospheric regulation to optimize data center/computer energy efficiency⭐⭐
+3. Temperature/atmospheric regulation to optimize solar power generation/battery charging⭐
+4. Used to track weather in the desert⭐
+5. Detect CO2 in the air⭐⭐
+6. Device used to teach kids about the weather⭐
+7. Detect contaminants in the air⭐⭐
+8. Tells when it is the most sunniest in a day⭐
+9. Detect contaminants in the precipitation⭐⭐
+10. Detect harmful chemical levels⭐⭐⭐
+11. Calculate sun angles⭐⭐⭐
+12. Used to regulate conditions for aquaculture⭐⭐
+13. Wind turbine direction⭐⭐⭐
+14. Detects particulate concentrations⭐⭐
+15. Used for military applications like wind speed⭐⭐
+16. Solar panel adjust to face sun⭐⭐⭐
+17. Track sea level⭐⭐⭐
+18. Alerting users of weather changes⭐⭐⭐
+19. Track tidal movement⭐⭐
+20. Takes cores for climate proxies⭐
+21. Track soil nitrogen, phosphorus, potassium, etc.⭐
+22. Track soil ph⭐
+23. Track moon phases⭐⭐
+24. Track Seismic activity⭐⭐
+25. Shut down when wind speed is high⭐⭐
+26. Algorithm to predict future weather conditions based on data⭐⭐⭐
+27. Tracks noise pollution⭐⭐
+28. Tracks atmospheric pressure⭐⭐
+29. Used for backpacking conditions⭐
+30. Control air pressure in a subsystem⭐⭐
+31. Car that tracks temperature and humidity⭐⭐
+32. Mobile weather station that is powered by solar panels⭐⭐⭐
+33. Device that tracks wind direction⭐
+34. Product that holds storage and data of temperature⭐⭐
+35. Shut down when wind direction is wrong⭐⭐
+36. Adjust wind turbine to operate in different wind directions⭐⭐
+37. Adjust wind turbine to operate in different wind speeds⭐⭐
+38. Used to predict waves⭐
+39. Collects water when it rains and tracks temperature⭐⭐
+40. Tell the difference between rain and snowfall⭐⭐⭐
+41. The device can be used for teaching about temperature and wind speed⭐⭐
+42. Track wind speed with wind chill temperature⭐⭐
+43. Used for predicting weather conditions⭐⭐
+44. Detect static electric charge⭐⭐
+45. Used to determine what crops to grow in remote areas⭐
+46. Used to collect data on climate change⭐⭐⭐
 
 3. Create three product concept sketches  
 
@@ -218,36 +218,9 @@ Greenhouse Regulation System
 
 The goal of the Greenhouse Regulation System would be to effectively cultivate the ideal environment for growing plants within the greenhouse. The current design would feature the ability to track internal and external data and identify what needs to be done to adjust the current environment within the greenhouse. This could include opening and closing greenhouse doors, dispersing water, etc. Solar panels would be placed directly above to help with power consumption, and a screen would be placed on the front to monitor data.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Mars Weather Station
 
 The Mars Weather Station is a robotic vehicle designed for exploring the surface and monitoring atmospheric conditions. The rover is equipped with sensors to study and report on weather patterns, temperature variations, atmospheric pressure, humidity, and wind speed on Mars.
-
-
-
-
 
 Wind Farm Weather Station
 
