@@ -10,7 +10,7 @@ Team Members: Gabriel Sandys, Shawn Meris, Hengjui Chang, Matt Olpin
 
 1/24/2024
 
-Arizona State University, EGR314, Spring, 2024, Dr. Nichols
+Arizona State University, EGR 314, Spring, 2024, Dr. Nichols
 
 ## Team Organization
 
@@ -24,9 +24,9 @@ Further our passion and knowledge in working with microcontrollers. <br>
 Motorized components in the project will work consistently to produce useful results. <br>
 The project will be able to fulfill all safety and project requirements. <br>
 
-The product mission statement listed below was talked about during a team meeting that satisfies both the project that the team wants to build and fulfills the project requirements.
-
 ### Product Mission Statement
+
+The product mission statement listed below was talked about during a team meeting that satisfies both the project that the team wants to build and fulfills the project requirements.
 
 The product will be reliable and work accurately to determine environmental conditions and use that data to determine and execute actions that are impactful for our project.
 
