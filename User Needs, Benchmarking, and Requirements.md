@@ -407,7 +407,7 @@ Explicit user needs will be highlighted or colored yellow and latent will be hig
 # Project Weather Station - Requirements Document
 ### EGR 314
 ### Project Team 308: Shawn Meris, Matthew Olpin, Gabriel Sandys and Heng- Jui Chang
-###Date of Creation: 1/17/2024
+### Date of Creation: 1/17/2024
 
 ## Version 1.0
 
