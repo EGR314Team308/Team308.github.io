@@ -12,7 +12,7 @@
 9. Track sunlight over time
 10. Track heat over time
 11. Track precipitation amount
-12.Track precipitation type
+12. Track precipitation type
 13. Track temperature and humidity
 14. Track temperature and precipitation over time
 15. Track UV amounts
@@ -71,7 +71,6 @@
 68. Used to collect data on climate change
 69. Used to determine/track conditions in a cave
 70. Used to determine/track conditions in a mine
-71. Used to determine/track conditions in a underwater
 72. Used on top of a skyscraper
 73. Used on an RV for wind speed
 74. Used at an airport for atmospheric pressure measurements
@@ -217,11 +216,13 @@
 
 #### Greenhouse Regulation System
 
+![Front](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/6fbf9915-8aa0-413f-a3a9-f8fdb84974d2)
 
+![Door](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/90dec684-b0cd-48af-8c0f-c518bb976913)
 
 #### Mars Weather Station
 
-
+![Suitable](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/b7953e88-af0c-4a00-81ca-9f0e0b6c6d25)
 
 #### Wind Farm Weather Station
 
@@ -229,6 +230,8 @@ Layout and components of the proposed design are shown in Figures 2, and 3.
 
 Figure 2, Wind farm weather station top view.
 
-
+![Freeze](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/5a9a4c75-f33e-475d-a579-ca41bf375d37)
 
 Figure 3, Wind farm turbine control system
+
+![Wind T](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/4842d00c-5755-4be8-bd4c-c414b27e1998)
