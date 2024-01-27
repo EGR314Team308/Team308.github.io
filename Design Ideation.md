@@ -107,6 +107,9 @@
 ### Categories:
 
 #### Locations
+
+![Loca](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/79a018fb-15ef-442c-ace3-5238f3b0fa7e)
+
 1. Sensors inside and outside with fans and misters  ⭐⭐⭐
 2. Track sunlight over time⭐⭐
 3. Weather station on the moon ⭐⭐⭐
@@ -131,6 +134,9 @@
 22. Used for passive heating cooling of homes/buildings⭐⭐⭐
 
 #### Environment Control
+
+![Envi](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/7b2f555b-9a61-4e10-9d12-1b291cd0902e)
+
 1. Air quality sensor for drone⭐⭐
 2. Air quality sensor for RC car⭐
 3. Turn on heater if prevent freezing⭐
@@ -165,6 +171,9 @@
 32. Used to control humidity in a warehouse⭐⭐
 
 #### Use cases
+
+![UseC](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/12645d97-7ab1-4b4b-abc6-e21a2bcf6e88)
+
 1. Temperature/atmospheric regulation to optimize manufacturing processes⭐⭐
 2. Temperature/atmospheric regulation to optimize data center/computer energy efficiency⭐⭐
 3. Temperature/atmospheric regulation to optimize solar power generation/battery charging⭐
