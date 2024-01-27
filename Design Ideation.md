@@ -1,42 +1,42 @@
 # Design Ideation
 1. Generate Ideas
 
--Air quality sensor for drone
--Air quality sensor for RC car
--Greenhouse temperature regulator
--Greenhouse moisture regulation
--Sensors inside and outside with fans and misters
--Control humidifiers and evaporation levels
--Wind speed and wind direction
--Track evaporation and air pressure
--Track sunlight over time
--Track heat over time
--Track precipitation amount
--Track precipitation type
--Track temperature and humidity
--Track temperature and precipitation over time
--Track UV amounts
--Solar panel adjust to face sun
--Track wind direction and wind speed
--Track air pressure
--Control air pressure in a subsystem
--Lightning risk detection
--Detect static electric charge
--Shut down when wind speed is high
--Shut down when wind direction is wrong
--Adjust wind turbine to operate in different wind directions
--Adjust wind turbine to operate in different wind speeds
--Turn on heater if prevent freezing
--Turn on cooling system if overheating
--Detect CO2 in the air
--Detect contaminants in the air
--Detect contaminants in the precipitation
--Detect harmful chemical levels
--Calculate sun angles
--Control heater with sunshield
--Shade control and rain cover
--Wind protection, lower solar panel for example
--Wind turbine direction
+1. Air quality sensor for drone
+2. Air quality sensor for RC car
+3. Greenhouse temperature regulator
+4. Greenhouse moisture regulation
+5. Sensors inside and outside with fans and misters
+6. Control humidifiers and evaporation levels
+7. Wind speed and wind direction
+8. Track evaporation and air pressure
+9. Track sunlight over time
+10. Track heat over time
+11. Track precipitation amount
+12.Track precipitation type
+13. Track temperature and humidity
+14. Track temperature and precipitation over time
+15. Track UV amounts
+16. Solar panel adjust to face sun
+17. Track wind direction and wind speed
+18. Track air pressure
+19. Control air pressure in a subsystem
+20. Lightning risk detection
+21. Detect static electric charge
+22. Shut down when wind speed is high
+23. Shut down when wind direction is wrong
+24. Adjust wind turbine to operate in different wind directions
+25. Adjust wind turbine to operate in different wind speeds
+26. Turn on heater if prevent freezing
+27. Turn on cooling system if overheating
+28. Detect CO2 in the air
+29. Detect contaminants in the air
+30. Detect contaminants in the precipitation
+31. Detect harmful chemical levels
+32. Calculate sun angles
+33. Control heater with sunshield
+34. Shade control and rain cover
+35. Wind protection, lower solar panel for example
+36. Wind turbine direction
 -Shade for accurate temperature recording
 -Open windows/vents
 -Car that tracks temperature and humidity
