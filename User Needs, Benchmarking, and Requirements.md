@@ -178,8 +178,6 @@ Explicit user needs will be highlighted or colored yellow and latent will be hig
 
 ## 2. Organize
 
-![image](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/d057af81-daf7-46ec-8098-991f4a8fe516)
-
 <span style="background-color: #FFFF00">Explicit</span>
 
 1. The weather station has bright colors.
@@ -288,7 +286,7 @@ Explicit user needs will be highlighted or colored yellow and latent will be hig
 
 ### Grouped List
 
-![image](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/62b1e46b-2c12-4e6d-b081-eb319a819b3a)
+![Sensor](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/c4abdd22-4bf9-4e7e-b76c-ce17247945de)
 
 #### Sensors
 1. <span style="background-color: #FFFF00">The device can detect pollution levels.</span>⭐
@@ -320,8 +318,6 @@ Explicit user needs will be highlighted or colored yellow and latent will be hig
 
 ![image](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/1c1f7032-cc96-4f4c-a7bd-4f2a7ff09532)
 
-![image](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/bdf7e547-82ef-48cd-8328-6027527bff16)
-
 #### Usability/Software
 1. <span style="background-color: #FFFF00">The weather station has bright colors.</span>⭐
 2. <span style="background-color: #FFFF00">Multiple product features.</span>⭐⭐
@@ -348,7 +344,7 @@ Explicit user needs will be highlighted or colored yellow and latent will be hig
 23. <span style="background-color: #00FBFF">The product should be easy to use.</span>⭐⭐
 24. <span style="background-color: #00FBFF">The weather station is easy to set up.</span>⭐⭐
 
-![image](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/279f0c02-9468-4879-a418-b568ab6c2f68)
+![Safe](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/1b4f02d0-222a-4248-a4f6-bf5f857305dc)
 
 #### Safety/Maintenance
 1. <span style="background-color: #FFFF00">The device is reliable.</span>⭐⭐⭐
@@ -368,8 +364,6 @@ Explicit user needs will be highlighted or colored yellow and latent will be hig
 15. <span style="background-color: #00FBFF">There should be an allowance for different options.</span>⭐
 
 ![image](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/2f152a7d-bc41-4998-80d9-277bb4fb82c3)
-
-![image](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/c297c32d-413d-4765-af78-07c33f1be4a9)
 
 #### Information/Hardware
 1. <span style="background-color: #FFFF00">The weather station is high quality.</span>⭐⭐⭐
@@ -399,7 +393,7 @@ Explicit user needs will be highlighted or colored yellow and latent will be hig
 25. <span style="background-color: #00FBFF">The weather station needs to be working after a period of time.</span>⭐⭐
 26. <span style="background-color: #00FBFF">The weather station is easy to build.</span>⭐
 
-![image](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/c8191c4a-9f1b-4805-8e16-99dab8d10d0c)
+![Power](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/208f6773-65be-4427-98a0-94467342d530)
 
 #### Power
 1. <span style="background-color: #FFFF00">The device has power to control external equipment.</span>⭐⭐⭐
@@ -452,48 +446,6 @@ Researchers and scientists can leverage the sensors of the weather station to co
 
 #### User Story #2:
 Another valuable use case for the project involves everyday citizens utilizing weather data for personal purposes. Whether monitoring daily weather, conducting personal research, or engaging in casual conversations about weather patterns, the device provides real-time information to enhance individual understanding.
-
-### Aspects
-
-#### 1. Hardware / Product Design
-- The device should have high-quality materials.
-- The device should be small and compact for the user to move around with ease.
-- The sensors (humidity, light, temperature, etc.) within the device should be easy to use and work.
-- The device should be weather resistant.
-- The device should have a battery that is both sufficient and sustainable.
-- The device should be able to have good data storage.
-- The device should be durable and usable for at least one person.
-
-#### 2. Software / Functionality
-- The device should be able to monitor data.
-- The device should have a data processing algorithm.
-- The device should control an actuator based on data.
-- The device should provide feedback to the user.
-- The device should be able to handle being constantly used.
-
-#### 3. Interactivity & User Experience
-- The device should allow users to download/view data.
-- The device should guide users through the product.
-- The device should allow users to activate different inputs.
-
-#### 4. Customization
-- The device should allow users to monitor specific patterns.
-- The device should allow users to customize parts of its appearance.
-- The device should be able to be used by people of all ages.
-
-#### 5. Manufacturing
-- The device should use surface-mounted components.
-- The device can have 3D printed housing.
-- The device can use metal for structural integrity.
-- The device should be designed using ECAD software (Cadence).
-- The device should be built so that repairs, modifications, and replacements can be made without rebuilding the device.
-
-#### 6. Safety
-- The device should have no exposed wiring.
-- All actuators should be clearly labeled and be in a safe operating environment.
-- The device should have clear instructions for safe use.
-- The device should not have sharp or rough edges.
-- Charging the battery should be able to be done without the risk of electric shock.
 
 ### Open Questions
 
