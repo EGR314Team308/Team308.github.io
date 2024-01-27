@@ -100,7 +100,7 @@
 97. Used to track weather in the desert
 98. Temperature/atmospheric regulation to optimize solar power generation/battery charging
 99. Temperature/atmospheric regulation to optimize data center/computer energy efficiency
-100. Temperature/atmospheric regulation to optimize manufacturing processes
+100.Temperature/atmospheric regulation to optimize manufacturing processes
 
 ## 2. Sort, Rank, and Group Design Concepts
 
