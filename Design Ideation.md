@@ -1,5 +1,5 @@
 # Design Ideation
-## 1. Generate Ideas
+## Generate Ideas
 
 1. Air quality sensor for drone
 2. Air quality sensor for RC car
@@ -100,9 +100,9 @@
 97. Used to track weather in the desert
 98. Temperature/atmospheric regulation to optimize solar power generation/battery charging
 99. Temperature/atmospheric regulation to optimize data center/computer energy efficiency
-100.Temperature/atmospheric regulation to optimize manufacturing processes
+100. Temperature/atmospheric regulation to optimize manufacturing processes
 
-## 2. Sort, Rank, and Group Design Concepts
+## Sort, Rank, and Group Design Concepts
 
 ### Categories:
 
@@ -212,40 +212,22 @@
 45. Used to determine what crops to grow in remote areas⭐
 46. Used to collect data on climate change⭐⭐⭐
 
-3. Create three product concept sketches  
+### Create three product concept sketches  
 
-Greenhouse Regulation System
-
-The goal of the Greenhouse Regulation System would be to effectively cultivate the ideal environment for growing plants within the greenhouse. The current design would feature the ability to track internal and external data and identify what needs to be done to adjust the current environment within the greenhouse. This could include opening and closing greenhouse doors, dispersing water, etc. Solar panels would be placed directly above to help with power consumption, and a screen would be placed on the front to monitor data.
-
-Mars Weather Station
-
-The Mars Weather Station is a robotic vehicle designed for exploring the surface and monitoring atmospheric conditions. The rover is equipped with sensors to study and report on weather patterns, temperature variations, atmospheric pressure, humidity, and wind speed on Mars.
-
-Wind Farm Weather Station
-
-Turbines on wind farms need to be slowed and shut down when there is too much wind, icy conditions, or if there are birds or other animals flying through the area.  
-
-The weather station design below will detect these conditions and control the turbine by adjusting the direction of the turbine using a yaw drive to slow the turbine and braking and slowing by applying pressure to the shaft with a brake pin and stopping by inserting the pin into the axle shaft if lockout is needed.
-
-Layout and components of the proposed design are shown in figures 1,2, and 3.
-
-
-Figure 1, Wind farm weather station side view.
+#### Greenhouse Regulation System
 
 
 
+#### Mars Weather Station
+
+
+
+#### Wind Farm Weather Station
+
+Layout and components of the proposed design are shown in Figures 2, and 3.
 
 Figure 2, Wind farm weather station top view.
 
 
 
 Figure 3, Wind farm turbine control system
-
-
-
-
-
-
-
-
