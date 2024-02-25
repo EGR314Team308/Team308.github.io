@@ -145,3 +145,27 @@ The weather station design below will detect these conditions and control the tu
 The link provided below is the Presentation for Team 308.
 
 [Link to Presentation 1](Presentation 1.md) <br>
+
+## Selected Design
+
+[Link to Selected Design](Selected Design.md) <br>
+
+## Block Diagram
+
+[Link to Block Diagram](Block Diagram.md) <br>
+
+## Component Selection
+
+[Link to Component Selection](Component Selection.md) <br>
+
+## Microcontroller Selection
+
+[Link to Microcontroller Selection](Microcontroller Selection.md) <br>
+
+## Hardware Proposal
+
+[Link to Hardware Proposal](Hardware Proposal.md) <br>
+
+## Software Proposal
+
+[Link to Software Proposal](Software Proposal.md) <br>
