@@ -3,8 +3,9 @@ Major component selection was completed by researching different options, optain
 
 ## **Humidity Sensors**
 
-Option 1                
-1649-SHT40-AD1B-R2CT-ND
+Option 1 
+
+1649-SHT40-AD1B-R2CT-ND:
 Sensor Humidity 100RH SMD, $2.58/each
 
 Pros:  I2C, Low power, SM, Low price, 0~100% Humidity range
@@ -13,7 +14,7 @@ Cons:  6 sec response time, +-1.8% RH Accuracy
 
 Option 2
 
-1649-SHT45-AD1B-R3TR-ND
+1649-SHT45-AD1B-R3TR-ND:
 Sensor Humidity 100RH SMD, $7.18/each
 
 Pros: I2C, Low power, SM, 0~100% Humidity range
@@ -23,7 +24,7 @@ Cons: 6 sec response time, +-1.5% RH Accuracy, $5.38 more for a 0.3% accuracy di
 
 Option 3
 
-497-15382-2-ND
+497-15382-2-ND:
 Sensor Humidity 100RH SMD, $5.36/each
   
 Pros: I2C, SPI, Very Low power, SM, 0~100% Humidity range, 6 sec response time, +-4.5% RH Accuracy
@@ -33,7 +34,7 @@ Cons:  Poor price to performance
 
 Option 4
 
-296-HDC3021DEHRTR-ND
+296-HDC3021DEHRTR-ND:
 Sensor Humidity 100RH SMD, $5.61/each
 
 Pros:  I2C, Very Low power, SM, 0~100% Humidity range, +-0.5% RH Accuracy
@@ -48,7 +49,7 @@ Cons:  4 sec response time, More than double the price of option 1
 
 Option 1
 
-TC74A4-3.3VCTCT-ND Temperature Sensor, $1.15/each
+TC74A4-3.3VCTCT-ND: Temperature Sensor, $1.15/each
 
 Pros:  It is already in Peralta Lab,  Inexpensive, The range of temperature is good
 
@@ -57,7 +58,7 @@ Cons:  It is very small which is hard for soldering, The datasheet does not have
 
 Option 2
 
-568-4768-1-ND Temperature Sensor, $0.91/each
+568-4768-1-ND: Temperature Sensor, $0.91/each
 
 Pros:  Cheapest option,  Extensive datasheet, Has the biggest width to help with soldering
 
@@ -66,7 +67,7 @@ Cons: Has 8 pins compared to the others, Has the highest voltage supply
 
 Option 3
 
-DS1775R+T&RCT-ND Temperature Sensor, $3.21/each
+DS1775R+T&RCT-ND: Temperature Sensor, $3.21/each
 
 Pros:  Has the most features, High Resolution, Is a combination of the other options
 Cons:  Does not say how large it is, Most expensive
@@ -89,7 +90,7 @@ Cons: 1 A output
 
 Option 2
 
-AP64350SP-13
+AP64350SP-13:
 Buck Switching Regulator IC Positive Adjustable Output 3.5A, $1.58/each
   
 Pros:  High efficiency, 3.8 to 40 V input, UVLO, OVP, Price, Easy to solder
@@ -99,7 +100,7 @@ Cons:  3.5 A output, Adjustable .8 to 39 V output, 8 pin
 
 Option 3
 
-TPS560430X3FDBVR
+TPS560430X3FDBVR:
 Buck Switching Regulator IC Positive PWM 3.3V, $1.07/each
   
 Pros:  6 pin, 4 to 36 V input, 3.3 V output, Price, Easy to solder
@@ -109,6 +110,53 @@ Cons:  600mA, No heatsink
 ### **Chosen part is Option 2**
 
 AP64350SP-1 Buck Switching Regulator is the best choice as it has over voltage and under voltage protection, it has higher output current, and it has a low cost.  It is adjustable which makes it more versatile if possibly more difficult to configure. If needed a 3.3V output version could be found to make configuration easier.  AP63203WU-7 is an example with 2A output.
+
+
+## **Power Supply**
+
+
+Option 1
+
+L6R48-120:  AC/DC WALL MOUNT ADAPTER 12V 48W , $18.19/each
+
+Pros:  12V, 4A, Price, No recharging needed
+
+Cons: Requires AC outlet
+
+Option 2
+
+PC5-12F1:
+BATTERY LEAD ACID 12V 5AH, $28.25/each
+
+Pros: 12V,  5AH, 3.54" L x 2.76" W x 3.98" H, Lead Acid, Price
+
+Cons:  20 hr discharge rate, 1.6 kg
+
+
+Option 3
+
+PCLFP10-12.8F2:
+BATTERY LITHIUM 12.8V 10AH, $127.16/each
+Link to product
+  
+12V
+10AH
+3.54" L x 2.76" W x 3.98" H
+10 Amp output
+1.6 kg
+Price
+Lithium
+5.94" L x 3.86" W x 3.74" H
+
+
+
+
+## **Motor Driver**
+
+
+
+## **Motor**
+
 
 
 
