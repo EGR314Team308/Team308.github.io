@@ -71,6 +71,45 @@ DS1775R+T&RCT-ND Temperature Sensor, $3.21/each
 Pros:  Has the most features, High Resolution, Is a combination of the other options
 Cons:  Does not say how large it is, Most expensive
 
+### **Chosen part is Option 1**
+
+TC74A4-3.3VCTCT-ND is the best because of the capabilities and amount available. It has all the features that are needed to measure temperature in a greenhouse. There are also many in stock along with there many in the Peralta Lab. It is also inexpensive with the only main problem being it is very small.
+
+## **Switching Power Regulator**
+
+Option 1
+
+LM2575S-3.3/NOPB
+Buck Switching Regulator IC Positive Fixed 3.3V, $4.76/each
+  
+Pros: High efficiency, 5 pin, Heat sink, 7-40 V DC Input, 3.3V output
+
+Cons: 1 A output
+
+
+Option 2
+
+AP64350SP-13
+Buck Switching Regulator IC Positive Adjustable Output 3.5A, $1.58/each
+  
+Pros:  High efficiency, 3.8 to 40 V input, UVLO, OVP, Price, Easy to solder
+
+Cons:  3.5 A output, Adjustable .8 to 39 V output, 8 pin
+
+
+Option 3
+
+TPS560430X3FDBVR
+Buck Switching Regulator IC Positive PWM 3.3V, $1.07/each
+  
+Pros:  6 pin, 4 to 36 V input, 3.3 V output, Price, Easy to solder
+
+Cons:  600mA, No heatsink
+
+### **Chosen part is Option 2**
+
+AP64350SP-1 Buck Switching Regulator is the best choice as it has over voltage and under voltage protection, it has higher output current, and it has a low cost.  It is adjustable which makes it more versatile if possibly more difficult to configure. If needed a 3.3V output version could be found to make configuration easier.  AP63203WU-7 is an example with 2A output.
+
 
 
 
