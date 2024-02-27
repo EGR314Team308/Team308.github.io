@@ -165,9 +165,11 @@ The weather station design below will detect these conditions and control the tu
 [Link to Microcontroller Selection](Microcontroller Selection.md) <br>
 
 ## Hardware Proposal
-[Link to Hardware Proposal](Hardware Proposal.md) <br>
 
-file:///C:/Users/shawn/Downloads/Team%20308%20Hardware%20Proposal.pdf <br>
+![Schematic](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/cee29d19-7854-41ce-9ded-ab3a2cce0773)
+
+
+[Link to Hardware Proposal](Hardware Proposal.md) <br>
 
 ## Software Proposal
 
