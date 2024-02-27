@@ -174,6 +174,20 @@ The weather station design below will detect these conditions and control the tu
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Software Proposal
 
 [Link to Software Proposal](Software Proposal.md) <br>
