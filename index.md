@@ -166,9 +166,13 @@ The weather station design below will detect these conditions and control the tu
 
 ## Hardware Proposal
 
-![Schematic](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/00b71c77-0c5e-4afa-9f22-bead7c2de6b8)
+<object data="Team 308 Hardware Proposal.pdf" width="1000" height="1000" type='application/pdf'>
 
 [Link to Hardware Proposal](Hardware Proposal.md) <br>
+
+
+
+
 
 ## Software Proposal
 
