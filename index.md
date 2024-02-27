@@ -166,7 +166,7 @@ The weather station design below will detect these conditions and control the tu
 
 ## Hardware Proposal
 
-<object data="Team 308 Hardware Proposal.pdf" width="1000" height="1000" type='application/pdf'>
+<object data="Team 308 Hardware Proposal.pdf" width="500" height="500" type='application/pdf'>
 
 [Link to Hardware Proposal](Hardware Proposal.md) <br>
 
