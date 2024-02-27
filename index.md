@@ -162,7 +162,7 @@ The weather station design below will detect these conditions and control the tu
 
 | Solution                                                                                | Pros                                                           | Cons                                                       |
 |-----------------------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------|
-| # Option 4 296-HDC3021DEHRTR-ND Sensor Humidity 100RH SMD $5.61/each Link to product    | I2C Very Low power SM 0~100% Humidity range +-0.5% RH Accuracy | 4 sec response time More than double the price of option 1 |
+| # ![alt text](https://github.com/EGR314Team308/Team308.github.io/blob/main/humidity%20sensor.JPG) Option 4 296-HDC3021DEHRTR-ND Sensor Humidity 100RH SMD $5.61/each Link to product    | I2C Very Low power SM 0~100% Humidity range +-0.5% RH Accuracy | 4 sec response time More than double the price of option 1 |
 
 Choice: Option 4: 296-HDC3021DEHRTR-ND
 Sensor Humidity 100RH SMD
@@ -173,7 +173,7 @@ Rationale: Option 4 provides the best price to performance, with a higher accura
 
 | Solution                                                                     | Pros                                                                      | Cons                                                                                       |
 |------------------------------------------------------------------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| # Option 1 TC74A4-3.3VCTCT-ND Temperature Sensor $1.15/each Link to product  | It is already in Peralta Lab Inexpensive The range of temperature is good | It is very small which is hard for soldering The datasheet does not have a circuit with it |
+| ![alt text](https://github.com/EGR314Team308/Team308.github.io/blob/main/temp%20sensor.JPG) # Option 1 TC74A4-3.3VCTCT-ND Temperature Sensor $1.15/each Link to product  | It is already in Peralta Lab Inexpensive The range of temperature is good | It is very small which is hard for soldering The datasheet does not have a circuit with it |
 
 Choice: Option 1: TC74A4-3.3VCTCT-ND Temperature Sensor
 
@@ -183,7 +183,7 @@ Rationale: Option 1 is possibly the best because of the capabilities and amount 
 
 | Solution                                                                                                           | Pros                                                                  | Cons                                      |
 |--------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|-------------------------------------------|
-| # Option 2 AP64350SP-13 Buck Switching Regulator IC Positive Adjustable Output 3.5A  $1.58/each Link to product    | High efficiency 8 pin 3.8 to 40 V input UVLO OVP Price Easy to solder | 3.5 A output Adjustable .8 to 39 V output |
+| ![alt text](https://github.com/EGR314Team308/Team308.github.io/blob/main/power%20regulator.JPG) # Option 2 AP64350SP-13 Buck Switching Regulator IC Positive Adjustable Output 3.5A  $1.58/each Link to product    | High efficiency 8 pin 3.8 to 40 V input UVLO OVP Price Easy to solder | 3.5 A output Adjustable .8 to 39 V output |
 
 Choice: Option 2: AP64350SP-1 Buck Switching Regulator IC Positive Adjustable Output 3.5A 
 
@@ -193,7 +193,7 @@ Rationale:  Option 2 is the best choice as it has over voltage and under voltage
 
 | Solution                                                                | Pros                               | Cons               |
 |-------------------------------------------------------------------------|------------------------------------|--------------------|
-| # Option 1 AC/DC WALL MOUNT ADAPTER 12V 48W $18.19/each Link to product | 12V 4A Price No recharging needed. | Requires AC outlet |
+| ![alt text](https://github.com/EGR314Team308/Team308.github.io/blob/main/AC_adaptor.JPG) # Option 1 AC/DC WALL MOUNT ADAPTER 12V 48W $18.19/each Link to product | 12V 4A Price No recharging needed. | Requires AC outlet |
 
 Choice: Option 1:   AC/DC WALL MOUNT ADAPTER 12V 48W
 
@@ -203,7 +203,7 @@ Rationale:  Option 1 is the best choice since it provides the needed power witho
 
 | Solution                                                                                     | Pros                                                           | Cons         |
 |----------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------|
-| # Option 2 MP6513LGJ-Z Bipolar Motor Driver Power Mosfet TSOT-23-6 $0.9/each Link to product | 2.5V-5.5V PWM Cheapest Thermal shutdown Overcurrent protection | 600mA output |
+| ![alt text](https://github.com/EGR314Team308/Team308.github.io/blob/main/motor%20driver.JPG) # Option 2 MP6513LGJ-Z Bipolar Motor Driver Power Mosfet TSOT-23-6 $0.9/each Link to product | 2.5V-5.5V PWM Cheapest Thermal shutdown Overcurrent protection | 600mA output |
 
 Choice: Option 2 MP6513LGJ-Z, Bipolar Motor Driver Power Mosfet TSOT-23-6
 
@@ -213,7 +213,7 @@ Rationale: It is the cheapest option out of the three, but it also has other fun
 
 | Solution                                                                 | Pros                                      | Cons                                         |
 |--------------------------------------------------------------------------|-------------------------------------------|----------------------------------------------|
-| # Option 1 2790-HC385MG-301-ND Brushed Motor $6.45/each Link to product  | 24 V 18000 RPM Wide operating temperature | Small and compact Datasheet is not available |
+| ![alt text](https://github.com/EGR314Team308/Team308.github.io/blob/main/Motor.JPG)) # Option 1 2790-HC385MG-301-ND Brushed Motor $6.45/each Link to product  | 24 V 18000 RPM Wide operating temperature | Small and compact Datasheet is not available |
 
 Choice: Option 1 2790-HC385MG-301-ND Brushed Motor
 
