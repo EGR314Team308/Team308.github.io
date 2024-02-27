@@ -149,6 +149,7 @@ The weather station design below will detect these conditions and control the tu
 ## Selected Design
 
 ![Green](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/0ff56bb9-99ef-44c9-9b0d-c12f9e677db1)
+
 [Link to Selected Design](Selected Design.md) <br>
 
 ## Block Diagram
