@@ -174,6 +174,7 @@ Temperature Sensor
 | Solution                                                                     | Pros                                                                      | Cons                                                                                       |
 |------------------------------------------------------------------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 | # Option 1 TC74A4-3.3VCTCT-ND Temperature Sensor $1.15/each Link to product  | It is already in Peralta Lab Inexpensive The range of temperature is good | It is very small which is hard for soldering The datasheet does not have a circuit with it |
+
 Choice: Option 1: TC74A4-3.3VCTCT-ND Temperature Sensor
 
 Rationale: Option 1 is possibly the best because of the capabilities and amount available. It has all the features that are needed to measure temperature in a greenhouse. There are also many in stock along with there many in the Peralta Lab. It is also inexpensive with the only main problem being it is very small.
