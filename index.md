@@ -162,7 +162,7 @@ The weather station design below will detect these conditions and control the tu
 
 | Solution                                                                                | Pros                                                           | Cons                                                       |
 |-----------------------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------|
-| # ![alt text](https://github.com/EGR314Team308/Team308.github.io/blob/main/humidity%20sensor.JPG) Option 4 296-HDC3021DEHRTR-ND Sensor Humidity 100RH SMD $5.61/each Link to product    | I2C Very Low power SM 0~100% Humidity range +-0.5% RH Accuracy | 4 sec response time More than double the price of option 1 |
+| ![alt text](https://github.com/EGR314Team308/Team308.github.io/blob/main/humidity%20sensor.JPG) Option 4 296-HDC3021DEHRTR-ND Sensor Humidity 100RH SMD $5.61/each Link to product    | I2C Very Low power SM 0~100% Humidity range +-0.5% RH Accuracy | 4 sec response time More than double the price of option 1 |
 
 Choice: Option 4: 296-HDC3021DEHRTR-ND
 Sensor Humidity 100RH SMD
