@@ -42,7 +42,7 @@ Cons:  4 sec response time, More than double the price of option 1
 
 ### **Chosen part is Option 4**
 
-![humidity sensor](https://github.com/EGR314Team308/Team308.github.io/blob/main/humidity%20sensor.JPG)
+![humidity sensor](https://raw.githubusercontent.com/EGR314Team308/Team308.github.io/main/humidity%20sensor.JPG)
 
 296-HDC3021DEHRTR-ND provides the best price to performance, with a higher accuracy than all of the other selected options. Although it is more expensive than option 1, when compared to similarly priced models it has much greater performance with a very low response time. It also meets the surface mount and I2C requirements.
 
