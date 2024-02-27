@@ -42,7 +42,7 @@ Cons:  4 sec response time, More than double the price of option 1
 
 ### **Chosen part is Option 4**
 
-![alt text](https://github.com/EGR314Team308/Team308.github.io/blob/main/AC_adaptor.JPG)
+![alt text](https://github.com/EGR314Team308/Team308.github.io/blob/main/humidity%20sensor.JPG)
 
 296-HDC3021DEHRTR-ND provides the best price to performance, with a higher accuracy than all of the other selected options. Although it is more expensive than option 1, when compared to similarly priced models it has much greater performance with a very low response time. It also meets the surface mount and I2C requirements.
 
@@ -74,7 +74,7 @@ Cons:  Does not say how large it is, Most expensive
 
 ### **Chosen part is Option 1**
 
-![alt text](https://github.com/EGR314Team308/Team308.github.io/blob/main/AC_adaptor.JPG)
+![alt text](https://github.com/EGR314Team308/Team308.github.io/blob/main/temp%20sensor.JPG)
 
 TC74A4-3.3VCTCT-ND is the best because of the capabilities and amount available. It has all the features that are needed to measure temperature in a greenhouse. There are also many in stock along with there many in the Peralta Lab. It is also inexpensive with the only main problem being it is very small.
 
@@ -109,7 +109,7 @@ Cons:  600mA, No heatsink
 
 ### **Chosen part is Option 2**
 
-![alt text](https://github.com/EGR314Team308/Team308.github.io/blob/main/AC_adaptor.JPG)
+![alt text](https://github.com/EGR314Team308/Team308.github.io/blob/main/power%20regulator.JPG)
 
 AP64350SP-1 Buck Switching Regulator is the best choice as it has over voltage and under voltage protection, it has higher output current, and it has a low cost.  It is adjustable which makes it more versatile if possibly more difficult to configure. If needed a 3.3V output version could be found to make configuration easier.  AP63203WU-7 is an example with 2A output.
 
@@ -178,7 +178,7 @@ Cons: Highest price out of the three, 2A output
 
 ### **Chosen part is Option 2**
 
-![alt text](https://github.com/EGR314Team308/Team308.github.io/blob/main/AC_adaptor.JPG)
+![alt text](https://github.com/EGR314Team308/Team308.github.io/blob/main/motor%20driver.JPG)
 
 MP6513LGJ-Z, Bipolar Motor Driver Power Mosfet TSOT-23-6 is the cheapest option out of the three, but it also has other functions. It has thermal shutdown, undervoltage lockout, overvoltage protection and overheat protection. Option 3 is also a good option but the voltage is too high.
 
@@ -214,7 +214,7 @@ Cons: Low voltage, Small and compact
 
 ### **Chosen part is Option 1**
 
-![alt text](https://github.com/EGR314Team308/Team308.github.io/blob/main/AC_adaptor.JPG)
+![alt text](https://github.com/EGR314Team308/Team308.github.io/blob/main/Motor.JPG))
 
 
 2790-HC385MG-301-ND Brushed Motor is both the cheapest and highest voltage and rotations per minute. It is large and shows all features like operating temperature. There are motors in Peralta Lab which could also be used.## Power Budget
