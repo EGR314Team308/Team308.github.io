@@ -166,11 +166,12 @@ The weather station design below will detect these conditions and control the tu
 
 ## Hardware Proposal
 
-![Schematic](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/cee29d19-7854-41ce-9ded-ab3a2cce0773)
-
+![Hardware Proposal (2)](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/9b114b13-5284-44b0-822f-a8e9c5c760cf)
 
 [Link to Hardware Proposal](Hardware Proposal.md) <br>
 
 ## Software Proposal
+
+![Software Proposal](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/c2e3bac6-76de-43ae-81d9-935e4d7fa74d)
 
 [Link to Software Proposal](Software Proposal.md) <br>
