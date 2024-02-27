@@ -148,16 +148,77 @@ Price
 Lithium
 5.94" L x 3.86" W x 3.74" H
 
+### **Chosen part is Option 2**
 
-
+L6R48-120:  AC/DC WALL MOUNT ADAPTER is the best choice since it provides the needed power without having to be recharged.  Our application is not mobile, so providing power from an outlet makes sense.  It is also the most cost effective.
 
 ## **Motor Driver**
+
+Option 1
+
+ZXBM5210-S-13:
+Motor Driver Power Mosfet PWM 8-SO, $1.5/each
+
+Pros: 3V-18V, PWM, Fully integrated, control and power stage
+
+Option 2
+
+MP6513LGJ-Z:
+Bipolar Motor Driver Power Mosfet TSOT-23-6, $0.9/each
+
+Pros: 2.5V-5.5V, PWM, Cheapest, Thermal shutdown, Overcurrent protection
+
+Cons: 600mA output
+
+
+Option 3
+
+A4953ELJTR-T:
+IC Motor Driver 8V-40V 8SOIC, $1.82/each
+
+Pros: DMOS, PWM, 8V-40V, Fully integrated, control and power stage, Overcurrent protection
+
+Cons: Highest price out of the three, 2A output
+
+### **Chosen part is Option 2**
+Choice: Option 2 MP6513LGJ-Z, Bipolar Motor Driver Power Mosfet TSOT-23-6
+
+MP6513LGJ-Z, Bipolar Motor Driver Power Mosfet TSOT-23-6 is the cheapest option out of the three, but it also has other functions. It has thermal shutdown, undervoltage lockout, overvoltage protection and overheat protection. Option 3 is also a good option but the voltage is too high.
 
 
 
 ## **Motor**
 
 
+Option 1
+
+2790-HC385MG-301-ND: Brushed Motor, $6.45/each
+
+Pros: 24 V,  18000 RPM, Wide operating temperature
+
+Cons: Small and compact, Datasheet is not available
+
+Option 2
+
+1568-ROB-15277-ND: Brushed Motor, $6.88/each
+ 
+Pros: 1.6 W, Large, Large gear reduction
+
+Cons: Not an extensive datasheet, Low RPM
+
+
+Option 3
+
+2183-998-ND: Brushed Motor, $19.95/each
+
+Pros: High current flow, Extensive datasheet, Quick connect
+
+Cons: Low voltage, Small and compact
+
+
+### **Chosen part is Option 1**
+
+2790-HC385MG-301-ND Brushed Motor is both the cheapest and highest voltage and rotations per minute. It is large and shows all features like operating temperature. There are motors in Peralta Lab which could also be used.
 
 
 
