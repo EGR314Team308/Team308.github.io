@@ -158,7 +158,7 @@ The weather station design below will detect these conditions and control the tu
 
 ## Component Selection
 
-Humidity Sensor
+### Humidity Sensor
 
 | Solution                                                                                | Pros                                                           | Cons                                                       |
 |-----------------------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------|
@@ -169,7 +169,7 @@ Sensor Humidity 100RH SMD
 
 Rationale: Option 4 provides the best price to performance, with a higher accuracy than all of the other selected options. Although it is more expensive than option 1, when compared to similarly priced models it has much greater performance with a very low response time. It also meets the surface mount and I2C requirements.
 
-Temperature Sensor
+### Temperature Sensor
 
 | Solution                                                                     | Pros                                                                      | Cons                                                                                       |
 |------------------------------------------------------------------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
@@ -179,7 +179,7 @@ Choice: Option 1: TC74A4-3.3VCTCT-ND Temperature Sensor
 
 Rationale: Option 1 is possibly the best because of the capabilities and amount available. It has all the features that are needed to measure temperature in a greenhouse. There are also many in stock along with there many in the Peralta Lab. It is also inexpensive with the only main problem being it is very small.
 
-Switching Power Regulator
+### Switching Power Regulator
 
 | Solution                                                                                                           | Pros                                                                  | Cons                                      |
 |--------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|-------------------------------------------|
@@ -189,7 +189,7 @@ Choice: Option 2: AP64350SP-1 Buck Switching Regulator IC Positive Adjustable Ou
 
 Rationale:  Option 2 is the best choice as it has over voltage and under voltage protection, it has higher output current, and it has a low cost.  It is adjustable which makes it more versatile if possibly more difficult to configure. If needed a 3.3V output version could be found to make configuration easier.  AP63203WU-7 is an example with 2A output.
 
-Power Supply
+### Power Supply
 
 | Solution                                                                | Pros                               | Cons               |
 |-------------------------------------------------------------------------|------------------------------------|--------------------|
@@ -199,7 +199,7 @@ Choice: Option 1:   AC/DC WALL MOUNT ADAPTER 12V 48W
 
 Rationale:  Option 1 is the best choice since it provides the needed power without having to be recharged.  Our application is not mobile, so providing power from an outlet makes sense.  It is also the most cost effective.
 
-Motor Driver
+### Motor Driver
 
 | Solution                                                                                     | Pros                                                           | Cons         |
 |----------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------|
@@ -209,7 +209,7 @@ Choice: Option 2 MP6513LGJ-Z, Bipolar Motor Driver Power Mosfet TSOT-23-6
 
 Rationale: It is the cheapest option out of the three, but it also has other functions. It has thermal shutdown, undervoltage lockout, overvoltage protection and overheat protection. Option 3 is also a good option but the voltage is too high.
 
-Motor
+### Motor
 
 | Solution                                                                 | Pros                                      | Cons                                         |
 |--------------------------------------------------------------------------|-------------------------------------------|----------------------------------------------|
