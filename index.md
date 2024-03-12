@@ -12,6 +12,19 @@ Team Members: Gabriel Sandys, Shawn Meris, Hengjui Chang, Matt Olpin
 
 Arizona State University, EGR 314, Spring, 2024, Dr. Nichols
 
+## Table of Contents
+
+[Team Organization]https://egr314team308.github.io/Team308.github.io/#team-organization
+[User Needs, Benchmarking, and Requirements] https://egr314team308.github.io/Team308.github.io/#user-needs-benchmarking-and-requirements
+[Design Ideation]https://egr314team308.github.io/Team308.github.io/#design-ideation
+[Presentation 1]https://egr314team308.github.io/Team308.github.io/#presentation-1
+[Selected Design]https://egr314team308.github.io/Team308.github.io/#selected-design
+[Block Diagram]https://egr314team308.github.io/Team308.github.io/#block-diagram
+[Component Selection]https://egr314team308.github.io/Team308.github.io/#component-selection
+[Microcontroller Selection]https://egr314team308.github.io/Team308.github.io/#microcontroller-selection
+[Hardware Proposal]https://egr314team308.github.io/Team308.github.io/#hardware-proposal
+[Software Proposal]https://egr314team308.github.io/Team308.github.io/#software-proposal
+
 ## Team Organization
 
 Team 308 was made to create a weather station that measures different environmental conditions. The team first talked about the team charter and team goals to see how each member wanted the team to both perform in the project and what the project should entail. The team goals listed below were created in a team meeting where every member had input into the teams ultimate goals. 
