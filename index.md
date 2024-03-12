@@ -60,6 +60,7 @@ The team started the user needs process by finding and writing down 5 different 
 The team organized the 100 user needs below based on the latent and explicit to see the main problems with current products. This allowed the teams to combine and split the user needs into 5 different catagories. The 5 categories are Sensors, Usability/Software, Safety/Maintenance, Information/Hardware and Power. The team assigned weight to important user needs based on team discussion this is shown by the ranking of 1 star, 2 star or 3 star ranking.
 
 ![image](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/d057af81-daf7-46ec-8098-991f4a8fe516)
+
 Figure 1: 100 User Needs Jamboard
 
 ![SensorS](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/7ed352bd-7ddd-4663-8783-e719bf49d40c)
@@ -156,6 +157,7 @@ Gabriel created the Greenhouse Regulation System in Blender, Roy created the Mar
 The goal of the Greenhouse Regulation System would be to effectively cultivate the ideal environment for growing plants within the greenhouse. The current design would feature the ability to track internal and external data and identify what needs to be done to adjust the current environment within the greenhouse. This could include opening and closing greenhouse doors, dispersing water, etc. Solar panels would be placed directly above to help with power consumption, and a screen would be placed on the front to monitor data.
 
 ![Green](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/0ff56bb9-99ef-44c9-9b0d-c12f9e677db1)
+
 Figure 11: Greenhouse Regulation System
 
 #### Mars Weather Station
@@ -163,6 +165,7 @@ Figure 11: Greenhouse Regulation System
 The Mars Weather Station is a robotic vehicle designed for exploring the surface and monitoring atmospheric conditions. The rover is equipped with sensors to study and report on weather patterns, temperature variations, atmospheric pressure, humidity, and wind speed on Mars.
 
 ![Mars](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/da56910c-823f-4eec-80ae-6116fd7e4e59)
+
 Figure 12: Mars Weather Station
 
 #### Wind Farm Weather Station
@@ -172,6 +175,7 @@ Turbines on wind farms need to be slowed and shut down when there is too much wi
 The weather station design below will detect these conditions and control the turbine by adjusting the direction of the turbine using a yaw drive to slow the turbine and braking and slowing by applying pressure to the shaft with a brake pin and stopping by inserting the pin into the axle shaft if lockout is needed.
 
 ![Wind](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/0b655a87-bd64-420e-8cf7-cdd9fc9b08e8)
+
 Figure 13: Wind Farm Weather Station
 
 [Link to Design Ideation](Design Ideation.md) <br>
@@ -187,6 +191,7 @@ Figure 13: Wind Farm Weather Station
 The team decided to pick the Greenhouse Regulation System because it looked the most practical and fun to make. The team did combine good ideas from the design ideation to make the final selected design with keeping in mind location, environment control and use cases. The team believes they selected the best design for the users needs. The ultimate decision was made by a vote of which design to pick where the vote was unanimous for the Greenhouse Regulation System. The selected design deviates slightly as there will not be an LCD screen on the front to track the temperature and humidity. There will be instead two PCB boards back to back displaying both the temperature inside and outside the greenhouse.
 
 ![Green](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/0ff56bb9-99ef-44c9-9b0d-c12f9e677db1)
+
 Figure 14: Greenhouse Regulation System
 
 [Link to Selected Design](Selected Design.md) <br>
