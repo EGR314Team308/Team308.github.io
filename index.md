@@ -177,7 +177,9 @@ The team decided to pick the Greenhouse Regulation System because it looked the 
 
 ## Component Selection
 
-The decision making process for creating this section
+The decision making process for creating this section was to find components that would work for the project and lay them out in a document to see which is the best fit for the project. The selected components meet the product requirements with having 2 serial sensors in temperature and humidity, an actuator which is the motor driver and motor along with a microcontroller, power supply and switching power regulator.
+
+The power budget was used to estimate the power needs of the greenhouse to see and make sure the greenhouse can be used for a sustainable amount of time. The power budget allows the team to be within the safety margin and run the greenhouse for at least an hour. The power budget is below in the appendix link at the bottom of the component selection.
 
 ### Humidity Sensor
 
@@ -248,12 +250,12 @@ Rationale: Option 1 is both the cheapest and highest voltage and rotations per m
 
 ## Hardware Proposal
 
+The team's bill of materials is below in the appendix. 
+
 ![Hardware Proposal (2)](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/9b114b13-5284-44b0-822f-a8e9c5c760cf)
 
 [Link to Hardware Proposal](Hardware Proposal.md) <br>
 
 ## Software Proposal
-
-![Software Proposal](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/c2e3bac6-76de-43ae-81d9-935e4d7fa74d)
 
 [Link to Software Proposal](Software Proposal.md) <br>
