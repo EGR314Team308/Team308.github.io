@@ -60,11 +60,22 @@ The team started the user needs process by finding and writing down 5 different 
 The team organized the 100 user needs below based on the latent and explicit to see the main problems with current products. This allowed the teams to combine and split the user needs into 5 different catagories. The 5 categories are Sensors, Usability/Software, Safety/Maintenance, Information/Hardware and Power. The team assigned weight to important user needs based on team discussion this is shown by the ranking of 1 star, 2 star or 3 star ranking.
 
 ![image](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/d057af81-daf7-46ec-8098-991f4a8fe516)
+Figure 1: 100 User Needs Jamboard
+
 ![SensorS](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/7ed352bd-7ddd-4663-8783-e719bf49d40c)
+Figure 2: Sensors Jamboard
+
 ![UseS](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/38159989-68a0-45eb-9d27-aed1d7bf1b9c)
+Figure 3: Usability/Software Jamboard
+
 ![SafeS](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/50b7bb8d-cb4f-4ccf-97fa-c50198d12d7c)
+Figure 4: Safety/Maintenance Jamboard
+
 ![InfoS](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/f407e896-4518-45e7-a39c-7e42977d22e5)
+Figure 5: Information/Hardware Jamboard
+
 ![PowerS](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/9521df59-0865-4408-9f0f-95a5ad3fce73)
+Figure 6: Power Jamboard
 
 ### Develop Requirements
 
@@ -122,15 +133,20 @@ The team cam together during class and outside of class during the weekly meetin
 ### Generate Ideas
 
 ![Ideas](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/5c7a3ca1-7c59-413b-8403-54374099224a)
+Figure 7: 100 Ideas
 
 ### Sort, Rank, and Group Design Concepts
 
 The process for organizing and ranking ideas was seeing if there were any patterns between the 100 ideas and separating them in 3 different groups. The three groups were separated into Locations, Environment Control and Use Cases. The team ranked the ideas from 1 star to 3 stars based on the user needs above and if they cover the project and product requirements. The three groups are shown below along with the ranks of each one on a Jamboard.
 
 ![LocS](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/c0e80970-fd57-44a6-a57f-758874c510bb)
-![EvS](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/ad9b3e16-2b7d-4a38-ab31-2a93f41d54ea)
-![UseCS](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/d04d554e-668d-4da3-9fcb-4c047128d505)
+Figure 8: Locations Jamboard
 
+![EvS](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/ad9b3e16-2b7d-4a38-ab31-2a93f41d54ea)
+Figure 9: Environment Control Jamboard
+
+![UseCS](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/d04d554e-668d-4da3-9fcb-4c047128d505)
+Figure 10: Use Cases Jamboard
 
 ### Create three product concept sketches
 
@@ -140,12 +156,14 @@ Gabriel created the Greenhouse Regulation System in Blender, Roy created the Mar
 The goal of the Greenhouse Regulation System would be to effectively cultivate the ideal environment for growing plants within the greenhouse. The current design would feature the ability to track internal and external data and identify what needs to be done to adjust the current environment within the greenhouse. This could include opening and closing greenhouse doors, dispersing water, etc. Solar panels would be placed directly above to help with power consumption, and a screen would be placed on the front to monitor data.
 
 ![Green](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/0ff56bb9-99ef-44c9-9b0d-c12f9e677db1)
+Figure 11: Greenhouse Regulation System
 
 #### Mars Weather Station
 
 The Mars Weather Station is a robotic vehicle designed for exploring the surface and monitoring atmospheric conditions. The rover is equipped with sensors to study and report on weather patterns, temperature variations, atmospheric pressure, humidity, and wind speed on Mars.
 
 ![Mars](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/da56910c-823f-4eec-80ae-6116fd7e4e59)
+Figure 12: Mars Weather Station
 
 #### Wind Farm Weather Station
 
@@ -154,6 +172,7 @@ Turbines on wind farms need to be slowed and shut down when there is too much wi
 The weather station design below will detect these conditions and control the turbine by adjusting the direction of the turbine using a yaw drive to slow the turbine and braking and slowing by applying pressure to the shaft with a brake pin and stopping by inserting the pin into the axle shaft if lockout is needed.
 
 ![Wind](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/0b655a87-bd64-420e-8cf7-cdd9fc9b08e8)
+Figure 13: Wind Farm Weather Station
 
 [Link to Design Ideation](Design Ideation.md) <br>
 
@@ -168,6 +187,7 @@ The weather station design below will detect these conditions and control the tu
 The team decided to pick the Greenhouse Regulation System because it looked the most practical and fun to make. The team did combine good ideas from the design ideation to make the final selected design with keeping in mind location, environment control and use cases. The team believes they selected the best design for the users needs. The ultimate decision was made by a vote of which design to pick where the vote was unanimous for the Greenhouse Regulation System. The selected design deviates slightly as there will not be an LCD screen on the front to track the temperature and humidity. There will be instead two PCB boards back to back displaying both the temperature inside and outside the greenhouse.
 
 ![Green](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/0ff56bb9-99ef-44c9-9b0d-c12f9e677db1)
+Figure 14: Greenhouse Regulation System
 
 [Link to Selected Design](Selected Design.md) <br>
 
@@ -253,6 +273,7 @@ Rationale: Option 1 is both the cheapest and highest voltage and rotations per m
 The functionality of the schematic satisfies the users needs and product requirements as it reads both temperature and humidity for the user to see the difference between inside the greenhouse and outside for optimal weather conditions. The motor will be connected to a door which will open and close depending on the temperature and humidity. The motor will open to let in air for the greehouse to return back to the desired conditions. All the subsystems will have 2 of each for the inside and outside. The microcontroller will control all the subsystems which is programmed by the snap programmer connection. The switching power regulator helps to transfer it from 12 V to 3.3 V which will run throughout the entire system. The ESP32 WiFi Module helps to transmit WiFi to and from the microcontroller. There will also be limit switches all throughout the system. The team's bill of materials is below in the appendix.
 
 ![Hardware Proposal](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/c069c3e0-4f03-43ae-8449-d32ab3c549e0)
+Figure 15: Hardware Proposal
 
 [Link to Hardware Proposal](Hardware Proposal.md) <br>
 
