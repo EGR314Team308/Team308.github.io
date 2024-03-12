@@ -14,16 +14,16 @@ Arizona State University, EGR 314, Spring, 2024, Dr. Nichols
 
 ## Table of Contents
 
-[Team Organization](https://egr314team308.github.io/Team308.github.io/#team-organization) <br>
-[User Needs, Benchmarking, and Requirements](https://egr314team308.github.io/Team308.github.io/#user-needs-benchmarking-and-requirements) <br>
-[Design Ideation](https://egr314team308.github.io/Team308.github.io/#design-ideation) <br>
-[Presentation 1](https://egr314team308.github.io/Team308.github.io/#presentation-1) <br>
-[Selected Design](https://egr314team308.github.io/Team308.github.io/#selected-design) <br>
-[Block Diagram](https://egr314team308.github.io/Team308.github.io/#block-diagram) <br>
-[Component Selection](https://egr314team308.github.io/Team308.github.io/#component-selection) <br>
-[Microcontroller Selection](https://egr314team308.github.io/Team308.github.io/#microcontroller-selection) <br>
-[Hardware Proposal](https://egr314team308.github.io/Team308.github.io/#hardware-proposal) <br>
-[Software Proposal](https://egr314team308.github.io/Team308.github.io/#software-proposal) <br>
++[Team Organization](https://egr314team308.github.io/Team308.github.io/#team-organization) <br>
++[User Needs, Benchmarking, and Requirements](https://egr314team308.github.io/Team308.github.io/#user-needs-benchmarking-and-requirements) <br>
++[Design Ideation](https://egr314team308.github.io/Team308.github.io/#design-ideation) <br>
++[Presentation 1](https://egr314team308.github.io/Team308.github.io/#presentation-1) <br>
++[Selected Design](https://egr314team308.github.io/Team308.github.io/#selected-design) <br>
++[Block Diagram](https://egr314team308.github.io/Team308.github.io/#block-diagram) <br>
++[Component Selection](https://egr314team308.github.io/Team308.github.io/#component-selection) <br>
++[Microcontroller Selection](https://egr314team308.github.io/Team308.github.io/#microcontroller-selection) <br>
++[Hardware Proposal](https://egr314team308.github.io/Team308.github.io/#hardware-proposal) <br>
++[Software Proposal](https://egr314team308.github.io/Team308.github.io/#software-proposal) <br>
 
 ## Introduction
 
@@ -164,6 +164,8 @@ The weather station design below will detect these conditions and control the tu
 [Link to Presentation 1](Presentation 1.md) <br>
 
 ## Selected Design
+
+The team decided to pick the Greenhouse Regulation System because it looked the most practical and fun to make. The team did combine good ideas from the design ideation to make the final selected design with keeping in mind location, environment control and use cases. The team believes they selected the best design for the users needs. The ultimate decision was made by a vote of which design to pick where the vote was unanimous for the Greenhouse Regulation System. The selected design deviates slightly as there will not be an LCD screen on the front to track the temperature and humidity. There will be instead two PCB boards back to back displaying both the temperature inside and outside the greenhouse.
 
 ![Green](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/0ff56bb9-99ef-44c9-9b0d-c12f9e677db1)
 
