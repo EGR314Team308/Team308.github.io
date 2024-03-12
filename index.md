@@ -14,16 +14,20 @@ Arizona State University, EGR 314, Spring, 2024, Dr. Nichols
 
 ## Table of Contents
 
-[Team Organization]https://egr314team308.github.io/Team308.github.io/#team-organization
-[User Needs, Benchmarking, and Requirements] https://egr314team308.github.io/Team308.github.io/#user-needs-benchmarking-and-requirements
-[Design Ideation]https://egr314team308.github.io/Team308.github.io/#design-ideation
-[Presentation 1]https://egr314team308.github.io/Team308.github.io/#presentation-1
-[Selected Design]https://egr314team308.github.io/Team308.github.io/#selected-design
-[Block Diagram]https://egr314team308.github.io/Team308.github.io/#block-diagram
-[Component Selection]https://egr314team308.github.io/Team308.github.io/#component-selection
-[Microcontroller Selection]https://egr314team308.github.io/Team308.github.io/#microcontroller-selection
-[Hardware Proposal]https://egr314team308.github.io/Team308.github.io/#hardware-proposal
-[Software Proposal]https://egr314team308.github.io/Team308.github.io/#software-proposal
+[Team Organization](https://egr314team308.github.io/Team308.github.io/#team-organization) <br>
+[User Needs, Benchmarking, and Requirements](https://egr314team308.github.io/Team308.github.io/#user-needs-benchmarking-and-requirements) <br>
+[Design Ideation](https://egr314team308.github.io/Team308.github.io/#design-ideation) <br>
+[Presentation 1](https://egr314team308.github.io/Team308.github.io/#presentation-1) <br>
+[Selected Design](https://egr314team308.github.io/Team308.github.io/#selected-design) <br>
+[Block Diagram](https://egr314team308.github.io/Team308.github.io/#block-diagram) <br>
+[Component Selection](https://egr314team308.github.io/Team308.github.io/#component-selection) <br>
+[Microcontroller Selection](https://egr314team308.github.io/Team308.github.io/#microcontroller-selection) <br>
+[Hardware Proposal](https://egr314team308.github.io/Team308.github.io/#hardware-proposal) <br>
+[Software Proposal](https://egr314team308.github.io/Team308.github.io/#software-proposal) <br>
+
+## Introduction
+
+Global warming has been on the rise for the past few years. There are many environmentalists concerned about where the world is going and where it will be in the future. There are many different products out there on the market that can measure temperature, humidity, atmospheric pressure and wind speed. The team would like to create more reliable and efficient products to track the environment.
 
 ## Team Organization
 
