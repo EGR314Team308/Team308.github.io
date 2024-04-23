@@ -53,7 +53,7 @@ Below is the link to the Appendix A: Team Organization <br>
 
 ## User Needs, Benchmarking, and Requirements
 
-The team started the user needs process by finding and writing down 5 different products that relate to a mobile weather station. The purpose of this was to see the good and bad reviews that were on these products in order to either implement or provide aspects that the device did not. This allows the team to see the user needs in the available market. Below in the link are the 5 products or Voice of the Customer Benchmarking that the team chose.
+The team started the user needs process by finding and writing down 5 different products that relate to a mobile weather station. The purpose of this was to see the good and bad reviews that were on these products in order to either implement or provide aspects that the device did not. This allows the team to see the user needs in the available market. This allowed for the decision making process to help the team with what features to focus on. Below in the link are the 5 products or Voice of the Customer Benchmarking that the team chose.
 
 ### Organize
 
@@ -129,7 +129,7 @@ Below is the link to the User Needs, Benchmarking, and Requirements page.
 
 ## Design Ideation
 
-The team cam together during class and outside of class during the weekly meeting to generate ideas first on a list that would later be transfered over to a Jamboard. Each member wrote down the ideas they initially had about the project and then the group decided to talk through the rest to reach 100 ideas. Shawn and Matt were the primary members that wrote down the ideas and the group as a whole talked about and shared ideas. The brainstorming that worked was just adding ideas the group all had and talking through ideas. There were no brainstorming types that did not work because the group accepted all ideas and all the brainstorming technics used worked. Below is the Jamboard made by the team.
+The team cam together during class and outside of class during the weekly meeting to generate ideas first on a list that would later be transfered over to a Jamboard. Each member wrote down the ideas they initially had about the project and then the group decided to talk through the rest to reach 100 ideas. Shawn and Matt were the primary members that wrote down the ideas and the group as a whole talked about and shared ideas. The brainstorming that worked was just adding ideas the group all had and talking through ideas. There were no brainstorming types that did not work because the group accepted all ideas and all the brainstorming technics used worked. The design will be assessed by the three concepts below to ensure the team fulfills the requirements. Below is the Jamboard made by the team.
 
 ### Generate Ideas
 
