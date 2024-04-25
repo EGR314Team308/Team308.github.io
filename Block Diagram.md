@@ -1,6 +1,6 @@
 # Block Diagram
 
-![Team 308 Block Diagram](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/9df75bfa-bb54-413f-95c1-f48b2de0cf36)
+![Team 308 Block Diagram-314 drawio](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/3e1ab11f-9fd2-42ee-ad53-fa386f9f299e)
 
 ## Member Contributions:
 
