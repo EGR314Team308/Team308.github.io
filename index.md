@@ -20,7 +20,7 @@ Arizona State University, EGR 314, Spring, 2024, Dr. Nichols
 + [Presentation 1](https://egr314team308.github.io/Team308.github.io/#presentation-1) <br>
 + [Selected Design](https://egr314team308.github.io/Team308.github.io/#selected-design) <br>
 + [Block Diagram](https://egr314team308.github.io/Team308.github.io/#block-diagram) <br>
-+ [Component Selection](https://egr314team308.github.io/Team308.github.io/#component-selection) <br>
++ [Component Selection and Power Budget](https://egr314team308.github.io/Team308.github.io/#component-selection) <br>
 + [Microcontroller Selection](https://egr314team308.github.io/Team308.github.io/#microcontroller-selection) <br>
 + [Hardware Proposal](https://egr314team308.github.io/Team308.github.io/#hardware-proposal) <br>
 + [Software Proposal](https://egr314team308.github.io/Team308.github.io/#software-proposal) <br>
@@ -188,7 +188,7 @@ Figure 13: Wind Farm Weather Station
 
 ## Selected Design
 
-The team decided to pick the Greenhouse Regulation System because it looked the most practical and fun to make. The team did combine good ideas from the design ideation to make the final selected design with keeping in mind location, environment control and use cases. The team believes they selected the best design for the users needs. The ultimate decision was made by a vote of which design to pick where the vote was unanimous for the Greenhouse Regulation System. The selected design deviates slightly as there will not be an LCD screen on the front to track the temperature and humidity. There will be instead two PCB boards back to back displaying both the temperature inside and outside the greenhouse.
+The team decided to pick the Greenhouse Regulation System because it looked the most practical and fun to make. The Greenhouse Regulation System had all the needs for the scope of the project. The team did combine good ideas from the design ideation to make the final selected design with keeping in mind location, environment control and use cases. The team believes they selected the best design for the users needs. The ultimate decision was made by a vote of which design to pick where the vote was unanimous for the Greenhouse Regulation System. The selected design deviates slightly as there will not be an LCD screen on the front to track the temperature and humidity. There will be instead two PCB boards back to back displaying both the temperature inside and outside the greenhouse. The temperature and humidity would reach a certain number to where the motor will open up a flap to let air in and reduce both temperature and humidity.
 
 ![Green](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/0ff56bb9-99ef-44c9-9b0d-c12f9e677db1)
 
@@ -210,7 +210,7 @@ The power budget was used to estimate the power needs of the greenhouse to see a
 
 | Solution                                                                                | Pros                                                           | Cons                                                       |
 |-----------------------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------|
-| Option 4 296-HDC3021DEHRTR-ND Sensor Humidity 100RH SMD $5.61/each Link to product    | I2C Very Low power SM 0~100% Humidity range +-0.5% RH Accuracy | 4 sec response time More than double the price of option 1 |
+| Option 4 296-HDC3021DEHRTR-ND Sensor Humidity 100RH SMD $5.61/each Link to product    | -I2C -Very Low power -SM 0~100% Humidity range +-0.5% RH Accuracy | -4 sec response time -More than double the price of option 1 |
 
 Choice: Option 4: 296-HDC3021DEHRTR-ND
 Sensor Humidity 100RH SMD
@@ -221,7 +221,7 @@ Rationale: Option 4 provides the best price to performance, with a higher accura
 
 | Solution                                                                     | Pros                                                                      | Cons                                                                                       |
 |------------------------------------------------------------------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| # Option 1 TC74A4-3.3VCTCT-ND Temperature Sensor $1.15/each Link to product  | It is already in Peralta Lab Inexpensive The range of temperature is good | It is very small which is hard for soldering The datasheet does not have a circuit with it |
+| # Option 1 TC74A4-3.3VCTCT-ND Temperature Sensor $1.15/each Link to product  | -It is already in Peralta Lab -Inexpensive -The range of temperature is good | -It is very small which is hard for soldering -The datasheet does not have a circuit with it |
 
 Choice: Option 1: TC74A4-3.3VCTCT-ND Temperature Sensor
 
@@ -231,7 +231,7 @@ Rationale: Option 1 is possibly the best because of the capabilities and amount 
 
 | Solution                                                                                                           | Pros                                                                  | Cons                                      |
 |--------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|-------------------------------------------|
-| # Option 2 AP64350SP-13 Buck Switching Regulator IC Positive Adjustable Output 3.5A  $1.58/each Link to product    | High efficiency 8 pin 3.8 to 40 V input UVLO OVP Price Easy to solder | 3.5 A output Adjustable .8 to 39 V output |
+| # Option 2 AP64350SP-13 Buck Switching Regulator IC Positive Adjustable Output 3.5A  $1.58/each Link to product    | -High efficiency -8 pin 3.8 to 40 V input UVLO OVP Price -Easy to solder | -3.5 A output -Adjustable -.8 to 39 V output |
 
 Choice: Option 2: AP64350SP-1 Buck Switching Regulator IC Positive Adjustable Output 3.5A 
 
@@ -241,7 +241,7 @@ Rationale:  Option 2 is the best choice as it has over voltage and under voltage
 
 | Solution                                                                | Pros                               | Cons               |
 |-------------------------------------------------------------------------|------------------------------------|--------------------|
-| # Option 1 AC/DC WALL MOUNT ADAPTER 12V 48W $18.19/each Link to product | 12V 4A Price No recharging needed. | Requires AC outlet |
+| # Option 1 AC/DC WALL MOUNT ADAPTER 12V 48W $18.19/each Link to product | -12V -4A -Price -No recharging needed. | -Requires AC outlet |
 
 Choice: Option 1:   AC/DC WALL MOUNT ADAPTER 12V 48W
 
@@ -251,7 +251,7 @@ Rationale:  Option 1 is the best choice since it provides the needed power witho
 
 | Solution                                                                                     | Pros                                                           | Cons         |
 |----------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------|
-| # Option 2 MP6513LGJ-Z Bipolar Motor Driver Power Mosfet TSOT-23-6 $0.9/each Link to product | 2.5V-5.5V PWM Cheapest Thermal shutdown Overcurrent protection | 600mA output |
+| # Option 2 MP6513LGJ-Z Bipolar Motor Driver Power Mosfet TSOT-23-6 $0.9/each Link to product | -2.5V-5.5V PWM -Cheapest -Thermal shutdown -Overcurrent protection | -600mA output |
 
 Choice: Option 2 MP6513LGJ-Z, Bipolar Motor Driver Power Mosfet TSOT-23-6
 
@@ -261,7 +261,7 @@ Rationale: It is the cheapest option out of the three, but it also has other fun
 
 | Solution                                                                 | Pros                                      | Cons                                         |
 |--------------------------------------------------------------------------|-------------------------------------------|----------------------------------------------|
-| # Option 1 2790-HC385MG-301-ND Brushed Motor $6.45/each Link to product  | 24 V 18000 RPM Wide operating temperature | Small and compact Datasheet is not available |
+| # Option 1 2790-HC385MG-301-ND Brushed Motor $6.45/each Link to product  | -24 V -18000 RPM -Wide operating temperature | -Small and compact -Datasheet is not available |
 
 Choice: Option 1 2790-HC385MG-301-ND Brushed Motor
 
