@@ -1,7 +1,9 @@
 # Software Proposal
 
+The functionality of the software diagram to satisfy the users needs is to have the motor move a flap that opens up based on the temperature and humidity and closes when the temperature and humidity stablilizes. This also fulfills the product requirements as there are sensors detecting different weather conditions and changing based upon those conditions and interrupts. The teams design and decision making was to optimize the grow of plants in a greenhouse and to show temperature and humidity to the user.
+
 ## UML Diagram
-![Team 308 Software_Proposal drawio](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/88f05964-5251-4b15-bc62-fe221542b1b4)
+![Team 308 Software_Proposal drawio](https://github.com/EGR314Team308/Team308.github.io/assets/156870072/b109a130-3144-4e48-9d28-1e2053f7633e)
 
 Figure 16: Software Proposal
 
