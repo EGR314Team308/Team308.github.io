@@ -8,11 +8,11 @@
 
 ## Gabriel Sandys:
 - Humidity sensor:
-  Recieves data from inside and outside the greenhouse related to humidity, which is sent to the microcontroller in tandum with data from the temperature sensor to interpret the data for motor output.
+  Recieves data from the greenhouse related to humidity, which is sent to the microcontroller in tandum with data from the temperature sensor to interpret the data for motor output.
 
 ## Shawn Meris:
 - Temperature sensor:
-  Recieves data from inside and outside the greenhouse related to temperature, which is sent to the microcontroller in tandum with data from the humidity sensor to interpret the data for motor output.
+  Recieves data from the greenhouse related to temperature, which is sent to the microcontroller in tandum with data from the humidity sensor to interpret the data for motor output.
 
 ## Roy Chang:
 - Motor:
