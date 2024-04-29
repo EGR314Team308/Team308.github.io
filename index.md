@@ -221,18 +221,18 @@ The power budget was used to estimate the power needs of the greenhouse to see a
 
 | Solution                                                                                | Pros                                                           | Cons                                                       |
 |-----------------------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------|
-| Option 4 296-HDC3021DEHRTR-ND Sensor Humidity 100RH SMD $5.61/each Link to product    | *I2C -Very Low power *SM 0~100% Humidity range *+-0.5% RH Accuracy | *4 sec response time *More than double the price of option 1 |
+| Option 4 HIH6030-021-001 Sensor Humidity/Temp 3.3V I2C 4.5% SMD $13.43/each    | *I2C *long term stability *easiest to solder | *+-4.5% RH Accuracy *expensive |
 
-Choice: Option 4: 296-HDC3021DEHRTR-ND
-Sensor Humidity 100RH SMD
+Choice: Option 4:  HIH6030-021-001
+Sensor Sensor Humidity/Temp 3.3V I2C 4.5% SMD
 
-Rationale: Option 4 provides the best price to performance, with a higher accuracy than all of the other selected options. Although it is more expensive than option 1, when compared to similarly priced models it has much greater performance with a very low response time. It also meets the surface mount and I2C requirements.
+Rationale: Option 4  has all of the options needed and is the only one that can reasonably be hand-soldered.  Unfortunately it is the most expensive option.
 
 ### Temperature Sensor
 
 | Solution                                                                     | Pros                                                                      | Cons                                                                                       |
 |------------------------------------------------------------------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| # Option 1 TC74A4-3.3VCTCT-ND Temperature Sensor $1.15/each Link to product  | *It is already in Peralta Lab *Inexpensive *The range of temperature is good | *It is very small which is hard for soldering *The datasheet does not have a circuit with it |
+| # Option 1 TC74A4-3.3VCTCT-ND Temperature Sensor $1.15/each  | *It is already in Peralta Lab *Inexpensive *The range of temperature is good | *It is very small which is hard for soldering *The datasheet does not have a circuit with it |
 
 Choice: Option 1: TC74A4-3.3VCTCT-ND Temperature Sensor
 
@@ -242,17 +242,17 @@ Rationale: Option 1 is possibly the best because of the capabilities and amount 
 
 | Solution                                                                                                           | Pros                                                                  | Cons                                      |
 |--------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|-------------------------------------------|
-| # Option 2 AP64350SP-13 Buck Switching Regulator IC Positive Adjustable Output 3.5A  $1.58/each Link to product    | *High efficiency *8 pin 3.8 to 40 V input UVLO OVP Price *Easy to solder | *3.5 A output *Adjustable *.8 to 39 V output |
+| # Option 1 2575S-3.3/NOPB Buck Switching Regulator IC Positive Fixed 3.3V, $4.76/each    | *High efficiency *5 pin *Heat sink *7-40 V DC Input *3.3V output *1 Amp output | *No built in protection from overload |
 
-Choice: Option 2: AP64350SP-1 Buck Switching Regulator IC Positive Adjustable Output 3.5A 
+Choice: Option 1: 2575S-3.3/NOPB Buck Switching Regulator IC Positive Fixed 3.3V
 
-Rationale:  Option 2 is the best choice as it has over voltage and under voltage protection, it has higher output current, and it has a low cost.  It is adjustable which makes it more versatile if possibly more difficult to configure. If needed a 3.3V output version could be found to make configuration easier.  AP63203WU-7 is an example with 2A output.
+Rationale:  Option 1 is the best choice since it has higher output current. It supplies the needed  3.3V output with a simple provide circuit using few components.
 
 ### Power Supply
 
 | Solution                                                                | Pros                               | Cons               |
 |-------------------------------------------------------------------------|------------------------------------|--------------------|
-| # Option 1 AC/DC WALL MOUNT ADAPTER 12V 48W $18.19/each Link to product | *12V *4A *Price *No recharging needed. | *Requires AC outlet |
+| # Option 1 AC/DC WALL MOUNT ADAPTER 12V 48W $18.19/each | *12V *4A *Price *No recharging needed. | *Requires AC outlet |
 
 Choice: Option 1:   AC/DC WALL MOUNT ADAPTER 12V 48W
 
@@ -262,7 +262,7 @@ Rationale:  Option 1 is the best choice since it provides the needed power witho
 
 | Solution                                                                                     | Pros                                                           | Cons         |
 |----------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------|
-| # Option 2 MP6513LGJ-Z Bipolar Motor Driver Power Mosfet TSOT-23-6 $0.9/each Link to product | *2.5V-5.5V PWM *Cheapest *Thermal shutdown *Overcurrent protection | *600mA output |
+| # Option 2 MP6513LGJ-Z Bipolar Motor Driver Power Mosfet TSOT-23-6 $0.9/each  | *2.5V-5.5V PWM *Cheapest *Thermal shutdown *Overcurrent protection | *600mA output |
 
 Choice: Option 2 MP6513LGJ-Z, Bipolar Motor Driver Power Mosfet TSOT-23-6
 
@@ -272,7 +272,7 @@ Rationale: It is the cheapest option out of the three, but it also has other fun
 
 | Solution                                                                 | Pros                                      | Cons                                         |
 |--------------------------------------------------------------------------|-------------------------------------------|----------------------------------------------|
-| # Option 1 2790-HC385MG-301-ND Brushed Motor $6.45/each Link to product  | *24 V *18000 RPM +Wide operating temperature | *Small and compact *Datasheet is not available |
+| # Option 1 2790-HC385MG-301-ND Brushed Motor $6.45/each   | *24 V *18000 RPM +Wide operating temperature | *Small and compact *Datasheet is not available |
 
 Choice: Option 1 2790-HC385MG-301-ND Brushed Motor
 
