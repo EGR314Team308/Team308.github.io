@@ -301,14 +301,13 @@ The PCB design placed things in a way to optimize functionality and ease of use 
 
 For the next iteration of the hardware for this project, the team could make several changes to both correct mistakes made and to add better functionality to the design.
 
-First they would correct msitakes made either through lack of understanding or rushing to get things done within the limited time they had.  The team initially did not have connections from the motor controller to the miccrocontroller that were needed for SPI communication.  These would be added to the PCB design.  They have already been added to the schematic.  The ESP32 module had 3.3V power running to both the 3.3V pin and the voltage in pin which caused issues and would be fixed.  There were also some issues in the PCB design with ground plane islands that had to be corrected with jumper cables.  This has been fixed in the PCB design, but there was no time to remanufacture the board due to time constraints.  There are also various other small fixes that could be made to improve the design.  the team could, for example, remove the zero ohm resistors to save board space and add click in headers and connectors for adding the external components to the board to make assembly and repair easier.
+First, they would correct mistakes made either through lack of understanding or rushing to get things done within the limited time they had. The team initially did not have connections from the motor controller to the microcontroller that were needed for SPI communication. These would be added to the PCB design. They have already been added to the schematic. The ESP32 module had 3.3V power running to both the 3.3V pin and the voltage-in pin which caused issues and would be fixed. There were also some issues in the PCB design with ground plane islands that had to be corrected with jumper cables. This has been fixed in the PCB design, but there was no time to remanufacture the board due to time constraints. There are also various other small fixes that could be made to improve the design. The team could, for example, remove the zero ohm resistors to save board space and add click in headers and connectors for adding the external components to the board to make assembly and repair easier.
 
-Second the team would add several things to improved the functionality of the design or add functions that would make for a better product for the user.  The sensors on the board for measuring the internal humidity and temperature could be removed from the board in the next version of the design.  This would allow for a more central location for the sensors and more appropriate results.  It would also allow for multiple locations to be sampled and weatherproofing the circuit board against humid or wet condictions while still collecting the needed data.  The wiring for a water pump was added to the design, but the specifics of its use would be part of version 2.0 for this design.  The pump could be used to power a misting system, watering system, or both could be added to the system.  Fans, evaparating cooling, air conditioning, feritlizing, shade structures, could also be controlled in a more sophisticated version of this design, but might be more appropriate for version 3.0 or 4.0.
+Second, the team would add several things to improve the functionality of the design or add functions that would make for a better product for the user. The sensors on the board for measuring the internal humidity and temperature could be removed from the board in the next version of the design. This would allow for a more central location for the sensors and more appropriate results. It would also allow for multiple locations to be sampled and weatherproofing the circuit board against humid or wet conditions while still collecting the needed data. The wiring for a water pump was added to the design, but the specifics of its use would be part of version 2.0 for this design. The pump could be used to power a misting system, watering system, or both could be added to the system. Fans, evaporating cooling, air conditioning, fertilizing, shade structures, could also be controlled in a more sophisticated version of this design, but might be more appropriate for version 3.0 or 4.0.
 
-Third the next evoluation of this project would be to add more user interaction and control.  Right now the parameters for controlling the system are hard coded into the software and hardware systems designed by the team.  The nexc version would ideally allow the user to interact and control the system.  This would require a control interface on the device and/or a WIFI interface on a PC or phone.  The WIFI interface would need to be built through software.  The WIFI controller is already a part of the design.  A control interface on the device would need to include push button controls, and a screen to show a menu of choices or could include a touch screen for input and output of information.  The system would need a microcontroller with more memory to handle all a control device of either kind and a more robust power regulator would likely be needed as well.
+Third, the next evolution of this project would be to add more user interaction and control. Right now the parameters for controlling the system are hard coded into the software and hardware systems designed by the team. The next version would ideally allow the user to interact and control the system. This would require a control interface on the device and/or a WIFI interface on a PC or phone. The WIFI interface would need to be built through software. The WIFI controller is already a part of the design. A control interface on the device would need to include push button controls, and a screen to show a menu of choices or could include a touch screen for input and output of information. The system would need a microcontroller with more memory to handle all a control device of either kind and a more robust power regulator would likely be needed as well.
 
-Finally a system for tracking the conditions inside the greenhouse over time would be added to allow for understanding of how the growing conditions change over time and to show how well the system is working. This could be done largely through software, but additional memory for the microcontroller would be needed for this be implemented.
-
+Finally a system for tracking the conditions inside the greenhouse over time would be added to allow for understanding of how the growing conditions change over time and to show how well the system is working. This could be done largely through software, but additional memory for the microcontroller would be needed for this to be implemented.
 
 [Link to Bill of Materials](Bill of Materials.md) <br>
 
@@ -322,7 +321,39 @@ Finally a system for tracking the conditions inside the greenhouse over time wou
 
 ## Lessons Learned
 
+The team learned a lot in the course of creating this project.  A few of the highlights are listed below.  In addition to this the experience of working as a team and planning and executing to meet deadlines as well as manage team coordination and communication were beneficial as well.
 
+#### 1. Surface Mount Parts<br>
+The team learned about the relative sizes of different surface mounted parts and different types as well as how to hand solder them.  Learning which types and sizes are most easily hand-soldered was a key part of being able to successfully complete the project.
+<br>
+#### 2. Cadence Software<br>
+ The team learned to use cadence software to plan, develop, and update the schematic for the project.  They learned to create and find footprints to use for the PCB design and how to create and export a PCB design for manufacturing using Cadence software.
+<br>
+#### 3. PCB Design<br>
+The team learned to create better PCB designs during the course of the project.  Better organization to limit the complexity of trace layouts helped improve the final design.  
+They learned to make sure the ground planes are connected.  They learned to plan out the power connections so as to avoid interference with communication connections.  The team also learned how to use a rubout and plan for antennas so that there was no interference.
+<br>
+#### 4. PIC Microcontrollers<br>
+The team learned about the many versions of the PIC controller that are available.  They learned how to set them up for onboard programming using an eight-pin header.  They also learned how to set up the connections to the other parts of the system including power and multiple devices.
+<br>
+#### 5. MPLAB<br>
+The team learned to use MPLAB software to program PIC controllers.  This included using the MCC to generate code and set up the peripherals and pins for use in the circuit that was designed.
+<br>
+#### 6. Debugging<br>
+The team got a lot of practical experience testing code and connections as they troubleshooted different subsystems and setups during the design and implementation phases of the project.
+<br>
+#### 7. I2C<br>
+The team used I2C communication protocols to receive and send information to the humidity and temperature sensors in the project.  They learned to set up the circuit to make this work and enable the clock and data on the microcontroller.  They used the I2C format to send and receive coded signals between the devices and the microcontroller.
+<br>
+#### 8. SPI<br>
+The team used SPI to control the motor.  They learned the connections necessary for this with the microcontroller and the coding and programming for sending and receiving signals.
+<br>
+#### 9. ESP32 WIFI Module<br>
+The team used an EPS32 WIFI module.  They learned to use Thonny development environment to program it using simple python code
+<br>
+#### 10. MCQTT<br>
+The team learned to use the MCQTT communication protocol to communicate with their system using both a smartphone and a PC.  This allowed them to unlock many different options for interacting with the device.
+<br>
 
 ## Recommendations for future students
 
