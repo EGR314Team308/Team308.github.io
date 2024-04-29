@@ -342,19 +342,21 @@ Outputs: Change parameters (Boolean)
 
 Our mainloop focuses on efficency. The system will constantly monitor the temperature and humidity within the greenhouse. It will not execute eny other code if no change is needed. If a change is needed it will determine if the greenhouse must ventilate or not. If the vent is already in it's most optimal state, the code will do nothing.
 
+## - 5 Biggest Changes Since Software Proposol:
+
+1. Removed External Sensors - The decision was made to remove external sensors. This was due to a lack of space accross our i2c/spi bridge. Since we only had two bridges with two ports each we could not properly integrate 4 sensors with 1 actuator. We could have included humidity or temperature by itself, however since our motor was on an spi bridge, we were unable to properly integrate additional sensors.
+2. Inclusion of P Controller - Our updated plan was to vary vent spin with a P controller based on how out of range the internal readings were. We used test values as seen in our UML diagram and since our motor was not functioning during the innovation showcase, we allowed this code to vary led blink delays instead.
+3. Loop Locking - Although the UML diagram was not changed, we did change the code used to ensure our loop would flow properly in the event that a change is pased (say to open the vent), to a state that the vent is already in (for example the vent being already open). In this event we ensured that the process data would effectively return a no change and therefore return to the beginning of the loop as shown in the UML diagram.
+4. Interrupts - Our i2c bridge is interrupt drivin including a timer to pass time in seconds. Although we could not monitor this data due to memory shortages, it did enable us to print data every second rather than a constant stream of data.
+5. Ability to Set Custom Parameters - Originally our code only checked for whether temp and humidity were over range, our new code tested for over or under range parameters set by the user. In the event that the system was to cold it would now close the vent if it was not already closed.
+
+
+
 [Link to Software Implementation](Software Implementation.md) <br>
 
 ## System Verification
 
-|                 | 3.3V Regulated       | Microcontroller          | ESP32                   | Temperature Sensor          | Humidity Sensor          | Motor Driver          | Motor       |
-|-----------------|-----------------------|--------------------------|-------------------------|-----------------------------|--------------------------|-----------------------|-------------|
-| 3.3V Regulated | v (KH 04/16/2024)     | v (KH 04/11/2024)       | v (KH 04/11/2024)      | v (KH 04/11/2024)           | v (KH 04/11/2024)       | v (KH 04/11/2024)    | nc          |
-| Microcontroller| v (KH 04/16/2024)     | v (ZR, 4/22/2024)       | v (KH 04/16/2024)      | v (KH 04/16/2024)           | u                        | nc                    | nc          |
-| ESP32           | v (ZR, 4/22/2024)     | nc                       | nc                        | nc                                | nc                        | nc                    | nc           |
-| Temperature Sensor |                            | v (KH 04/16/2024)     | nc                        | nc                                | nc                        | nc                    | nc           |
-| Humidity Sensor   |                             | v (KH 04/16/2024)     | nc                        | nc                                | nc                        | nc                    | nc           |
-| Motor Driver       |                             |                            | u                            | u                                  | u                          | u                     | nc           |
-| Motor                |                             |                            |                             |                                    |                               |                           | x              |
+![image](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/9c7de023-c592-42ed-bdf2-0d559826eba1)
 
 
 ## Lessons Learned
