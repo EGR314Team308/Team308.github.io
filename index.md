@@ -282,7 +282,13 @@ Rationale: Option 1 is both the cheapest and highest voltage and rotations per m
 
 # Hardware Implementation
 
+### Funcionality of the Schematic in Meeting User Needs
 The functionality of the schematic satisfies the users needs and product requirements as it reads both temperature and humidity for the user to see the difference between inside the greenhouse and outside for optimal weather conditions. The motor will be connected to a door which will open and close depending on the temperature and humidity. The motor will open to let in air for the greehouse to return back to the desired conditions. All the subsystems will have 2 of each for the inside and outside. The microcontroller will control all the subsystems which is programmed by the snap programmer connection. The switching power regulator helps to transfer it from 12 V to 3.3 V which will run throughout the entire system. The ESP32 WiFi Module helps to transmit WiFi to and from the microcontroller. There will also be limit switches all throughout the system. The team's bill of materials is below in the appendix.
+
+### Design and Decision Making Process
+The team designed the schematic and PCB to connect all of the components so that they would work together.  The team used a power regulator and accompanying components to reduce input voltage from 12 to 3.3 volts for use with our contollers and sensors.  They used capacitors to regulate signals and reduce noise.  The team used resistors to adjust current levels.  They added connectors to our power source as well as connectors for our external sensors, a motor, and other components that could not function on the board.
+
+The PCB design placed things in a way to optimize functionality and ease of use and manufacture.  The tean also used components that would be easy to hand solder whenever possible.  The microcontroller was centrally located with space around for all of the connecting traces to spread out to the components with which it communicates.  The power regulation circuit was placed near the power supply and away from the WIFI controller antenna so as to minimize interference with the WIFI signal.  Headers were placed at the edges of the board to protect the components in the middle of the board and make the connections easier for the user.
 
 ## Final Schematic
 ![Final Schematic](https://raw.githubusercontent.com/EGR314Team308/Team308.github.io/main/FinalSchematic.JPG)
@@ -290,7 +296,14 @@ The functionality of the schematic satisfies the users needs and product require
 ![Final PCb Front](https://raw.githubusercontent.com/EGR314Team308/Team308.github.io/main/FinalPCBFront.JPG)
 ## Final Back PCB Design
 ![Final PCB Back](https://raw.githubusercontent.com/EGR314Team308/Team308.github.io/main/FinalPCBBack.JPG)
-## V2 of Hardware Implementation 
+
+## Version 2.0 of the Hardware Implementation 
+
+For the next iteration of the hardware for this project, the team could make several changes to both correct mistakes made and to add better functionality to our design.
+
+First they would correct msitakes made either through lack of understanding or rushing to get things done within the limited time they had.  The team initially did not have connections from the motor controller to the miccrocontroller that were needed for SPI communication.  These would be added to the PCB design.  They have already been added to the schematic.  The ESP32 module had 3.3V power running to botht he 3.3V pin and teh VIN which caused issues and would be fixed.  There were also some issues in the PCB design with ground plane islands that had to be corrected with jumper cables.  This has been fixed in the PCB design, but there was no time to remanufacture the board due to time constraints.  There are also various toher small fixes that could be made to improve the design.
+
+Second the team would add several things to improved the functionality of the design or add functions that would make for a better product for the user.
 
 
 [Link to Bill of Materials](Bill of Materials.md) <br>
