@@ -30,7 +30,7 @@ Arizona State University, EGR 314, Spring, 2024, Dr. Nichols
 
 Appendix
 + [Bill of Materials](https://egr314team308.github.io/Team308.github.io/Bill%20of%20Materials.html) <br>
-+ [MQTT Topic Table and Code](https://github.com/EGR314Team308/Team308.github.io/blob/main/Appendix%20B%20MQTT%20Topic%20Table%20and%20Code.md) <br>
++ [MQTT Topic Table and Code](https://egr314team308.github.io/Team308.github.io/Appendix%20B%20MQTT%20Topic%20Table%20and%20Code.ht) <br>
 
 ## Introduction
 
@@ -371,7 +371,7 @@ Overall, a version 2.0 of our software would focus on enhancing the user experie
 
 ## System Verification
 
-![image](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/9c7de023-c592-42ed-bdf2-0d559826eba1)
+![image](https://egr314team308.github.io/Team308.github.io/Appendix%20B%20MQTT%20Topic%20Table%20and%20Code.ht)
 
 
 ## Lessons Learned
