@@ -25,7 +25,7 @@ Arizona State University, EGR 314, Spring, 2024, Dr. Nichols
 + [Microcontroller Selection](https://egr314team308.github.io/Team308.github.io/#microcontroller-selection) <br>
 + [Hardware Proposal](https://egr314team308.github.io/Team308.github.io/#hardware-proposal) <br>
 + [Software Proposal](https://egr314team308.github.io/Team308.github.io/#software-proposal) <br>
-+ [Bill of Materials](https://github.com/EGR314Team308/Team308.github.io/blob/main/Bill%20of%20Materials.md) <br>
++ [Bill of Materials](https://egr314team308.github.io/Team308.github.io/#Bill-20of-20Materials) <br>
 
 ## Introduction
 
