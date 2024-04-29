@@ -364,6 +364,40 @@ Lastly improving the device by adding some type of user interface would be great
 
 Overall, a version 2.0 of our software would focus on enhancing the user experience by implementing a more robust user interface. Additionally, it would prioritize the implementation of failsafe mechanisms, improved error handling, and improved data acquisition through the integration of additional sensors. These enhancements would allow for a more precise and reliable system, enabling users to better manage and optimize the greenhouse environment for optimal plant growth and health.
 
+## MQTT Topic Table:
+
+|          | EGR314/Team308/Temperature | EGR314/Team308/Humidity |
+|----------|-----------------------------|-------------------------|
+| Team #   | 308                         | 308                     |
+| Team Name| Oasis                       | Oasis                   |
+| Topic    | EGR314/Team308/Temperature  | EGR314/Team308/Humidity|
+| Team Members / Devices Publishing | Shawn/Main Board   | Gabriel/Main Board    |
+| Team Members / Devices Subscribing| Shawn/Phone        | Gabriel/Phone         |
+| Value Separator | n/a                    | n/a                     |
+| Value 1  |             |                 |
+|   Name   | Temperature                 | Humidity               |
+|   Description | Sensor                   | Sensor                 |
+|   Units  | Celsius                     | Moisture %             |
+|   Minimum Value | 0                      | 0                      |
+|   Maximum Value | 255                    | 255                    |
+|   Type   | uint8                       | uint8                  |
+|   Format String | %u \r\n                | %RH: %u\r\n            |
+|   Unique Identifier | T                   | H                      |
+| Value 2 (optional) |           |          |
+|   Name   | n/a                         | n/a                    |
+|   Description | n/a                     | n/a                    |
+|   Units  | n/a                         | n/a                    |
+|   Minimum Value | n/a                   | n/a                    |
+|   Maximum Value | n/a                   | n/a                    |
+|   Type   | n/a                         | n/a                    |
+|   Format String | n/a                    | n/a                    |
+|   Unique Identifier | n/a                 | n/a                    |
+| Combined Example | Temperature = 25       | Humidity = 23%        |
+
+## Code Repository:
+
+
+
 [Link to Software Implementation](Software Implementation.md) <br>
 
 ## System Verification
