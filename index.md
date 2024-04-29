@@ -357,4 +357,16 @@ The team learned to use the MCQTT communication protocol to communicate with the
 
 ## Recommendations for future students
 
+In order to be ready for this class the team has the five following recommendations.
+
+#### 1. Cadence
+Install and learn to use Cadence software to create a simple schematic and PCB design.  Also use it to create some footprints.  Cadence has a steep learning curve and knowing how to use it ahead of time will help a team meet deadlines and not get behind on their project.
+#### 2. Surface Mount Soldering
+Learn and practice surface mount soldering.  This is a skill and requires both knowledge and practice.  Watch some videos and try out some techniques with different surface mount components.  It is also useful to get some equipment to solder at home with different size tips, and it helps to use extra fine solder wire in some cases.
+#### 3. I2C and SPI
+Become familiar with I2C and SPI communication protocols.  These are tricky to implement at first, so getting familiar with how they work will be very helpful for the project.
+#### 4. Programming in C and Python
+There is a significant amount of programming needed for this project in both C and Python.  The team recommends doing some basic tutorials as refreshers or as introduction to these languages.  Learning to program on top of everything else needed for this course is a tall task.
+#### 5. PIC Micocontrollers and MPLAB
+The project for this course utilizes a PIC microcontroller which will be set up, enabled, and programmed in MPLAB.  It is recommended to get experience using these with a Curiosity Nano and breadboard before the course starts to allow you to quickly utilize these systems for assignments and for your project.
 
