@@ -30,7 +30,7 @@ Arizona State University, EGR 314, Spring, 2024, Dr. Nichols
 
 Appendix
 + [Bill of Materials](https://egr314team308.github.io/Team308.github.io/Bill%20of%20Materials.html) <br>
-+ [MQTT Topic Table and Code]() <br>
++ [MQTT Topic Table and Code](Appendix-B-MQTT-Topic-Table-and-Code.md) <br>
 
 ## Introduction
 
