@@ -242,7 +242,7 @@ Rationale: Option 1 is possibly the best because of the capabilities and amount 
 
 | Solution                                                                                                           | Pros                                                                  | Cons                                      |
 |--------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|-------------------------------------------|
-| # Option 1 2575S-3.3/NOPB Buck Switching Regulator IC Positive Fixed 3.3V, $4.76/each    | *High efficiency *5 pin *Heat sink *7-40 V DC Input *3.3V output *1 Amp output | *No built in protection from overload |
+| # Option 1 LM2575S-3.3/NOPB Buck Switching Regulator IC Positive Fixed 3.3V, $4.76/each    | *High efficiency *5 pin *Heat sink *7-40 V DC Input *3.3V output *1 Amp output | *No built in protection from overload |
 
 Choice: Option 1: 2575S-3.3/NOPB Buck Switching Regulator IC Positive Fixed 3.3V
 
