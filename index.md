@@ -23,8 +23,10 @@ Arizona State University, EGR 314, Spring, 2024, Dr. Nichols
 + [Component Selection](https://egr314team308.github.io/Team308.github.io/#component-selection) <br>
   *[Full Component Selection and Power Budget](https://egr314team308.github.io/Team308.github.io/Component%20Selection.html) <br>
 + [Microcontroller Selection](https://egr314team308.github.io/Team308.github.io/#microcontroller-selection) <br>
-+ [Hardware Proposal](https://egr314team308.github.io/Team308.github.io/#hardware-proposal) <br>
++ [Hardware Implementation](https://egr314team308.github.io/Team308.github.io/#hardware-implementation) <br>
 + [Software Proposal](https://egr314team308.github.io/Team308.github.io/#software-proposal) <br>
+
+Appendix
 + [Bill of Materials](https://egr314team308.github.io/Team308.github.io/Bill%20of%20Materials.html) <br>
 
 ## Introduction
@@ -278,11 +280,20 @@ Rationale: Option 1 is both the cheapest and highest voltage and rotations per m
 
 [Link to Microcontroller Selection](Microcontroller Selection.md) <br>
 
-## Hardware Implementation
+# Hardware Implementation
 
 The functionality of the schematic satisfies the users needs and product requirements as it reads both temperature and humidity for the user to see the difference between inside the greenhouse and outside for optimal weather conditions. The motor will be connected to a door which will open and close depending on the temperature and humidity. The motor will open to let in air for the greehouse to return back to the desired conditions. All the subsystems will have 2 of each for the inside and outside. The microcontroller will control all the subsystems which is programmed by the snap programmer connection. The switching power regulator helps to transfer it from 12 V to 3.3 V which will run throughout the entire system. The ESP32 WiFi Module helps to transmit WiFi to and from the microcontroller. There will also be limit switches all throughout the system. The team's bill of materials is below in the appendix.
 
-[Link to Bill of Materials](Hardware Implementation.md) <br>
+## Final Schematic
+![Final Schematic](https://raw.githubusercontent.com/EGR314Team308/Team308.github.io/main/FinalSchematic.JPG)
+## Final Front PCB Design
+![Final PCb Front](https://raw.githubusercontent.com/EGR314Team308/Team308.github.io/main/FinalPCBFront.JPG)
+## Final Back PCB Design
+![Final PCB Back](https://raw.githubusercontent.com/EGR314Team308/Team308.github.io/main/FinalPCBBack.JPG)
+## V2 of Hardware Implementation 
+
+
+[Link to Bill of Materials](Bill of Materials.md) <br>
 
 ## Software Implementation
 
