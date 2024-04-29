@@ -342,7 +342,7 @@ Outputs: Change parameters (Boolean)
 
 Our mainloop focuses on efficency. The system will constantly monitor the temperature and humidity within the greenhouse. It will not execute eny other code if no change is needed. If a change is needed it will determine if the greenhouse must ventilate or not. If the vent is already in it's most optimal state, the code will do nothing.
 
-## - 5 Biggest Changes Since Software Proposol:
+### 5 Biggest Changes Since Software Proposol:
 
 1. Removed External Sensors - The decision was made to remove external sensors. This was due to a lack of space accross our i2c/spi bridge. Since we only had two bridges with two ports each we could not properly integrate 4 sensors with 1 actuator. We could have included humidity or temperature by itself, however since our motor was on an spi bridge, we were unable to properly integrate additional sensors.
 2. Inclusion of P Controller - Our updated plan was to vary vent spin with a P controller based on how out of range the internal readings were. We used test values as seen in our UML diagram and since our motor was not functioning during the innovation showcase, we allowed this code to vary led blink delays instead.
@@ -350,7 +350,19 @@ Our mainloop focuses on efficency. The system will constantly monitor the temper
 4. Interrupts - Our i2c bridge is interrupt drivin including a timer to pass time in seconds. Although we could not monitor this data due to memory shortages, it did enable us to print data every second rather than a constant stream of data.
 5. Ability to Set Custom Parameters - Originally our code only checked for whether temp and humidity were over range, our new code tested for over or under range parameters set by the user. In the event that the system was to cold it would now close the vent if it was not already closed.
 
+### Software Version 2.0
 
+Numerous changes would be needed to properly integrate new hardware and account for new changes within the system:
+
+First the Integration of more sensors for monitoring other environmental parameters like external temp/humidity, light intensity, soil moisture, CO2 levels, etc., and implementing control mechanisms based on the data from these additional sensors will provide more comprehensive control over the greenhouse environment especially if more functional motors are added. If more functional motors are added, such as motors for controlling shades, curtains, or fans, the system can further enhance its control over the greenhouse environment. For example, by integrating motors for controlling shades or curtains, the system can regulate the amount of sunlight entering the greenhouse, helping to maintain optimal temperature and light conditions for plant growth. Similarly, by integrating motors for controlling fans, the system can regulate airflow and ventilation within the greenhouse, helping to maintain optimal temperature and humidity levels utulizing even more sensor data. Additionally new code will be needed if a water pump is properly integrated, which would add additional humidity and water in the event that the sensors detect a drop in humidity or a stark rise in temperature.
+
+Second for improved debugging and system monitoring, a robust logging mechanism should be implemented to record system events, sensor readings, and control actions. Using display screens to provide real-time feedback about system status, this could also be logged via the ESP32. By logging system events, such as sensor readings, control actions, and any errors or anomalies encountered, it becomes possible to trace the system's behavior over time. This information can be invaluable for diagnosing problems, identifying trends, and optimizing the system's performance.
+
+Additionaly enhanced error handling mechanisms should also be implemented to deal with other potential errors in sensor readings, communication, or motor control not observed within our software implementation.  While our current system addresses certain error scenarios, there are other potential errors in sensor readings, communication, or motor control that need to be considered. When an error is detected, the system would set an appropriate error flag or code, allowing it to identify the nature of the error and take appropriate action. This could include logging the error, sending a notification to the user, or implementing a predefined error recovery procedure.
+
+Lastly improving the device by adding some type of user interface would be great. Rather than just displaying data errors, and changes within the system, and hard coding values or sending them over MQTT to change paramters; an application could enable users to adjust system parameters and set desired values for temperature, humidity, lighting, and other environmental conditions directly from their mobile devices or computers. Rather than hard-coding these values within the system's code or over MQTT.
+
+Overall, a version 2.0 of our software would focus on enhancing the user experience by implementing a more robust user interface. Additionally, it would prioritize the implementation of failsafe mechanisms, improved error handling, and improved data acquisition through the integration of additional sensors. These enhancements would allow for a more precise and reliable system, enabling users to better manage and optimize the greenhouse environment for optimal plant growth and health.
 
 [Link to Software Implementation](Software Implementation.md) <br>
 
