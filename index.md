@@ -323,30 +323,38 @@ Figure 16: Software Proposal
 
 ## Functions: 
 ### - Compare Data
-Inputs: Data from internal and external sensors (uint_8)
 
-Function: Determines if greenhouse is not in optimal state
+Inputs: Data from internal sensors (uint_8 and uint_16)
+
+Function: Compares the data with the desired humidity and temperature. It will then return whether or not a change is needed.
 
 Outputs: Change (Boolean)
 
 ### - Proccess Data
-Inputs: Data from internal and external sensors (uint_8), Change (Boolean)
 
-Function: Determines what type of change is needed for the greenhouse to reach optimal state
+Inputs: Data from internal sensors (uint_8 and uint_16), Change (Boolean)
 
-Outputs: Change parameters (FLoat)
+Function: This function will change our truth table to find which values are out of place and whether the system will need to open or close
 
-### - Update Motors
-Inputs: Change parameters (FLoat)
+Outputs: Change parameters (Boolean)
 
-Function: Rotates motors based on change parameters
+### - Main Loop
 
-Outputs: (Void)
+Our mainloop focuses on efficency. The system will constantly monitor the temperature and humidity within the greenhouse. It will not execute eny other code if no change is needed. If a change is needed it will determine if the greenhouse must ventilate or not. If the vent is already in it's most optimal state, the code will do nothing.
 
 [Link to Software Implementation](Software Implementation.md) <br>
 
 ## System Verification
 
+|                 | 3.3V Regulated       | Microcontroller          | ESP32                   | Temperature Sensor          | Humidity Sensor          | Motor Driver          | Motor       |
+|-----------------|-----------------------|--------------------------|-------------------------|-----------------------------|--------------------------|-----------------------|-------------|
+| 3.3V Regulated | v (KH 04/16/2024)     | v (KH 04/11/2024)       | v (KH 04/11/2024)      | v (KH 04/11/2024)           | v (KH 04/11/2024)       | v (KH 04/11/2024)    | nc          |
+| Microcontroller| v (KH 04/16/2024)     | v (ZR, 4/22/2024)       | v (KH 04/16/2024)      | v (KH 04/16/2024)           | u                        | nc                    | nc          |
+| ESP32           | v (ZR, 4/22/2024)     | nc                       | nc                        | nc                                | nc                        | nc                    | nc           |
+| Temperature Sensor |                            | v (KH 04/16/2024)     | nc                        | nc                                | nc                        | nc                    | nc           |
+| Humidity Sensor   |                             | v (KH 04/16/2024)     | nc                        | nc                                | nc                        | nc                    | nc           |
+| Motor Driver       |                             |                            | u                            | u                                  | u                          | u                     | nc           |
+| Motor                |                             |                            |                             |                                    |                               |                           | x              |
 
 
 ## Lessons Learned
