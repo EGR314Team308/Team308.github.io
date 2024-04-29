@@ -24,12 +24,13 @@ Arizona State University, EGR 314, Spring, 2024, Dr. Nichols
   *[Full Component Selection and Power Budget](https://egr314team308.github.io/Team308.github.io/Component%20Selection.html) <br>
 + [Microcontroller Selection](https://egr314team308.github.io/Team308.github.io/#microcontroller-selection) <br>
 + [Hardware Implementation](https://egr314team308.github.io/Team308.github.io/#hardware-implementation) <br>
-+ [Software Proposal](https://egr314team308.github.io/Team308.github.io/#software-proposal) <br>
++ [Software Implementation](https://egr314team308.github.io/Team308.github.io/#software-implementation) <br>
 + [Lessons Learned](https://egr314team308.github.io/Team308.github.io/#lessons-learned) <br>
 + [Recommendations for Future Students](https://egr314team308.github.io/Team308.github.io/#recommendations-for-future-students) <br>
 
 Appendix
 + [Bill of Materials](https://egr314team308.github.io/Team308.github.io/Bill%20of%20Materials.html) <br>
++ [MQTT Topic Table and Code]() <br>
 
 ## Introduction
 
