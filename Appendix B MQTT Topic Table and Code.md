@@ -27,3 +27,6 @@
 |   Format String | n/a                    | n/a                    |
 |   Unique Identifier | n/a                 | n/a                    |
 | Combined Example | Temperature = 25       | Humidity = 23%        |
+
+# Link to Code Repository:
+[Code Repository](https://egr314team308.github.io/Team308Code.github.io/)
