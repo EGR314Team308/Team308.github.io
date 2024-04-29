@@ -327,32 +327,32 @@ The team learned a lot in the course of creating this project.  A few of the hig
 
 #### 1. Surface Mount Parts<br>
 The team learned about the relative sizes of different surface mounted parts and different types as well as how to hand solder them.  Learning which types and sizes are most easily hand-soldered was a key part of being able to successfully complete the project.
-<br>
+
 #### 2. Cadence Software<br>
  The team learned to use cadence software to plan, develop, and update the schematic for the project.  They learned to create and find footprints to use for the PCB design and how to create and export a PCB design for manufacturing using Cadence software.
-<br>
+
 #### 3. PCB Design<br>
 The team learned to create better PCB designs during the course of the project.  Better organization to limit the complexity of trace layouts helped improve the final design.  
 They learned to make sure the ground planes are connected.  They learned to plan out the power connections so as to avoid interference with communication connections.  The team also learned how to use a rubout and plan for antennas so that there was no interference.
-<br>
+
 #### 4. PIC Microcontrollers<br>
 The team learned about the many versions of the PIC controller that are available.  They learned how to set them up for onboard programming using an eight-pin header.  They also learned how to set up the connections to the other parts of the system including power and multiple devices.
-<br>
+
 #### 5. MPLAB<br>
 The team learned to use MPLAB software to program PIC controllers.  This included using the MCC to generate code and set up the peripherals and pins for use in the circuit that was designed.
-<br>
+
 #### 6. Debugging<br>
 The team got a lot of practical experience testing code and connections as they troubleshooted different subsystems and setups during the design and implementation phases of the project.
-<br>
+
 #### 7. I2C<br>
 The team used I2C communication protocols to receive and send information to the humidity and temperature sensors in the project.  They learned to set up the circuit to make this work and enable the clock and data on the microcontroller.  They used the I2C format to send and receive coded signals between the devices and the microcontroller.
-<br>
+
 #### 8. SPI<br>
 The team used SPI to control the motor.  They learned the connections necessary for this with the microcontroller and the coding and programming for sending and receiving signals.
-<br>
+
 #### 9. ESP32 WIFI Module<br>
 The team used an EPS32 WIFI module.  They learned to use Thonny development environment to program it using simple python code
-<br>
+
 #### 10. MCQTT<br>
 The team learned to use the MCQTT communication protocol to communicate with their system using both a smartphone and a PC.  This allowed them to unlock many different options for interacting with the device.
 <br>
