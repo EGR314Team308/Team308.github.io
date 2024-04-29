@@ -107,11 +107,11 @@ Pros:  6 pin, 4 to 36 V input, 3.3 V output, Price, Easy to solder
 
 Cons:  600mA, No heatsink
 
-### **Chosen part is Option 2**
+### **Chosen part is Option 1**
 
-![power regulator](https://raw.githubusercontent.com/EGR314Team308/Team308.github.io/main/power%20regulator.JPG)
+![power regulator](https://raw.githubusercontent.com/EGR314Team308/Team308.github.io/main/power_regulator.JPG)
 
-AP64350SP-1 Buck Switching Regulator is the best choice as it has over voltage and under voltage protection, it has higher output current, and it has a low cost.  It is adjustable which makes it more versatile if possibly more difficult to configure. If needed a 3.3V output version could be found to make configuration easier.  AP63203WU-7 is an example with 2A output.
+LM2575S-3.3/NOPB Buck Switching Regulator IC Positive Fixed 3.3V is the best choice since it has higher output current. It supplies the needed  3.3V output with a simple provide circuit using few components.
 
 ## **Power Supply**
 
