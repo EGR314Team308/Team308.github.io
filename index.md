@@ -366,7 +366,7 @@ Overall, a version 2.0 of our software would focus on enhancing the user experie
 
 ## MQTT Topic Table and Code Repository via Appendix B:
 
-[Appendix B](Appendix_B_MQTT_and_Code.md) <br>
+[Appendix B](Appendix B MQTT Topic Table and Code.md) <br>
 
 ## System Verification
 
