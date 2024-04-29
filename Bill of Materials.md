@@ -1,6 +1,5 @@
 # Bill of Materials
-| Bill of Materials                |
-| -------------------------------- |
+
 | Part Name/Description            | Unit Quantity | Unit Prototype Cost | Total Prototype Cost | Unit Production Cost | Total Production Cost | Manufacturer | Manufacturer Part # | Vendor Link | Datasheet Link | Supplier | Supplier Part # | \# Ordered | Date Ordered | \# Received | Surplus | Schematic Reference Designators |
 | PIC16F15354-E/SO Microcontroller | 6 | $1.39 | $8.34 | $1.39 | $8.34 | Microchip Technology | PIC16F15354-E/SO | [Link to product](https://www.digikey.com/en/products/detail/microchip-technology/PIC16F15354-E-SO/6244547) | [Link to datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/40001835A.pdf) | Digikey | PIC16F15354-E/SO-ND | 6 | 2/18/2024 | 6 | 0 | U3 |
 | SENSOR DIGITAL -40C-125C SOT23-5 | 6 | $1.15 | $6.90 | $1.15 | $6.90 | Microchip Technology | TC74A4-3.3VCTTR | [Link to product](https://www.digikey.com/en/products/detail/microchip-technology/TC74A4-3-3VCTTR/443268) | [Link to datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/21462D.pdf) | Digikey | TC74A4-3.3VCTDKR-ND | 6 | 2/18/2024 | 6 | 0 | U11 |
