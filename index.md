@@ -25,6 +25,8 @@ Arizona State University, EGR 314, Spring, 2024, Dr. Nichols
 + [Microcontroller Selection](https://egr314team308.github.io/Team308.github.io/#microcontroller-selection) <br>
 + [Hardware Implementation](https://egr314team308.github.io/Team308.github.io/#hardware-implementation) <br>
 + [Software Proposal](https://egr314team308.github.io/Team308.github.io/#software-proposal) <br>
++ [Lessons Learned](https://egr314team308.github.io/Team308.github.io/#lessons-learned) <br>
++ [Recommendations for Future Students](https://egr314team308.github.io/Team308.github.io/#recommendations-for-future-students) <br>
 
 Appendix
 + [Bill of Materials](https://egr314team308.github.io/Team308.github.io/Bill%20of%20Materials.html) <br>
@@ -355,7 +357,7 @@ The team used an EPS32 WIFI module.  They learned to use Thonny development envi
 The team learned to use the MCQTT communication protocol to communicate with their system using both a smartphone and a PC.  This allowed them to unlock many different options for interacting with the device.
 <br>
 
-## Recommendations for future students
+## Recommendations for Future Students
 
 In order to be ready for this class the team has the five following recommendations.
 
