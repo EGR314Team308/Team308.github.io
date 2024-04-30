@@ -288,7 +288,13 @@ Rationale: Option 1 is both the cheapest and highest voltage and rotations per m
 
 ## Power Budget
 
+Power to the system was provided by a 12 volt 4 amp AC adaptor.  This provided ample power to the system which was divided between 12 volt power feeding the motor and a switchingpower regulator circuit which provided 3.3 volts to the rest of the components in the system.  See Appendix B for the full power budget spreadsheet with all of the calcuations and specific details.
+
+[Link to Appendix B: Full Version Component Selection and Power Budget](Component Selection.md) <br>
+
 ## Microcontroller Selection
+
+The team chose the PIC16(L)F15354 as this microcontroller has all the capabilities needed and extra pins in case they are needed. It was available in multiple form factors that they would be able to solder without extreme difficulty. It is low power, but the voltages match our use case. It may have some limitations with the max current, but we should be able to work with that. It also covers all team project requirements.  See the detailed analysis done during the selection process in Appendix C.
 
 [Link to Appendix C: Microcontroller Selection](Microcontroller Selection.md) <br>
 
@@ -322,6 +328,8 @@ Third, the next evolution of this project would be to add more user interaction 
 Finally a system for tracking the conditions inside the greenhouse over time would be added to allow for understanding of how the growing conditions change over time and to show how well the system is working. This could be done largely through software, but additional memory for the microcontroller would be needed for this to be implemented.
 
 ### Bill of Materials
+
+The list of the materials purchased and used to create the electrical system of this project are detailed in the bill of materials.  See Appendis D for the full breakdown of the parts, prices, product links, and associated datasheets.
 
 [Link to Appendix D: Bill of Materials](Bill of Materials.md) <br>
 
@@ -377,6 +385,8 @@ Lastly improving the device by adding some type of user interface would be great
 Overall, a version 2.0 of our software would focus on enhancing the user experience by implementing a more robust user interface. Additionally, it would prioritize the implementation of failsafe mechanisms, improved error handling, and improved data acquisition through the integration of additional sensors. These enhancements would allow for a more precise and reliable system, enabling users to better manage and optimize the greenhouse environment for optimal plant growth and health.
 
 ## MQTT Topic Table and Code Repository via Appendix B:
+
+The MQTT topic table and code repository show how communications were set up between the device and other systems.  See Appendix E for these tables and code.
 
 [Appendix E: MQTT Topic Table and Code](Appendix B MQTT Topic Table and Code.md) <br>
 
