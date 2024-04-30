@@ -159,7 +159,7 @@ Figure 10: Use Cases Jamboard
 
 ### Create three product concept sketches
 
-Gabriel created the Greenhouse Regulation System in Blender, Roy created the Mars Weather Station in Solidworks and Matt made the Wind Farm Weather Station. Below are Team 308s product concept sketches.
+The combined the best ideas and most significant needs into three different concepts to develop further.  Gabriel created the Greenhouse Regulation System in Blender, Roy created the Mars Weather Station in Solidworks and Matt created a design for a Wind Farm Weather Station. Below are Team 308s product concept sketches.
 
 #### Greenhouse Regulation System
 The goal of the Greenhouse Regulation System would be to effectively cultivate the ideal environment for growing plants within the greenhouse. The current design would feature the ability to track internal and external data and identify what needs to be done to adjust the current environment within the greenhouse. This could include opening and closing greenhouse doors, dispersing water, etc. Solar panels would be placed directly above to help with power consumption, and a screen would be placed on the front to monitor data.
@@ -190,6 +190,8 @@ Figure 13: Wind Farm Weather Station
 
 ## Presentation 1
 
+The team created this video summary of the ideation processto explain further how the decisions were made and what possibilities were considered.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JfoxrEyEsB8?si=He0aE4M31bQOCldq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [Link to Presentation 1](Presentation 1.md) <br>
@@ -218,6 +220,8 @@ The decision making process for creating this section was to find components tha
 The power budget was used to estimate the power needs of the greenhouse to see and make sure the greenhouse can be used for a sustainable amount of time. The power budget allows the team to be within the safety margin and run the greenhouse for at least an hour. The power budget is below.
 
 ### Full Version Component Selection and Power Budget
+
+The full version of the component selection and power budget are shared in the appendix below.  A summary of the component selection focusing just on what was selected is shown below.
 
 [Link to Appendix B: Full Version Component Selection and Power Budget](Component Selection.md) <br>
 
@@ -281,6 +285,8 @@ Rationale: It is the cheapest option out of the three, but it also has other fun
 Choice: Option 1 2790-HC385MG-301-ND Brushed Motor
 
 Rationale: Option 1 is both the cheapest and highest voltage and rotations per minute. It is large and shows all features like operating temperature. There are motors in Peralta Lab which could also be used.
+
+## Power Budget
 
 ## Microcontroller Selection
 
@@ -372,7 +378,7 @@ Overall, a version 2.0 of our software would focus on enhancing the user experie
 
 ## MQTT Topic Table and Code Repository via Appendix B:
 
-[Appendix E](Appendix B MQTT Topic Table and Code.md) <br>
+[Appendix E: MQTT Topic Table and Code](Appendix B MQTT Topic Table and Code.md) <br>
 
 ## System Verification
 
@@ -391,35 +397,25 @@ Overall, a version 2.0 of our software would focus on enhancing the user experie
 ## Lessons Learned
 
 The team learned a lot in the course of creating this project.  A few of the highlights are listed below.  In addition to this the experience of working as a team and planning and executing to meet deadlines as well as manage team coordination and communication were beneficial as well.
-
 #### 1. Surface Mount Parts<br>
 The team learned about the relative sizes of different surface mounted parts and different types as well as how to hand solder them.  Learning which types and sizes are most easily hand-soldered was a key part of being able to successfully complete the project.
-
 #### 2. Cadence Software<br>
  The team learned to use cadence software to plan, develop, and update the schematic for the project.  They learned to create and find footprints to use for the PCB design and how to create and export a PCB design for manufacturing using Cadence software.
-
 #### 3. PCB Design<br>
 The team learned to create better PCB designs during the course of the project.  Better organization to limit the complexity of trace layouts helped improve the final design.  
 They learned to make sure the ground planes are connected.  They learned to plan out the power connections so as to avoid interference with communication connections.  The team also learned how to use a rubout and plan for antennas so that there was no interference.
-
 #### 4. PIC Microcontrollers<br>
 The team learned about the many versions of the PIC controller that are available.  They learned how to set them up for onboard programming using an eight-pin header.  They also learned how to set up the connections to the other parts of the system including power and multiple devices.
-
 #### 5. MPLAB<br>
 The team learned to use MPLAB software to program PIC controllers.  This included using the MCC to generate code and set up the peripherals and pins for use in the circuit that was designed.
-
 #### 6. Debugging<br>
 The team got a lot of practical experience testing code and connections as they troubleshooted different subsystems and setups during the design and implementation phases of the project.
-
 #### 7. I2C<br>
 The team used I2C communication protocols to receive and send information to the humidity and temperature sensors in the project.  They learned to set up the circuit to make this work and enable the clock and data on the microcontroller.  They used the I2C format to send and receive coded signals between the devices and the microcontroller.
-
 #### 8. SPI<br>
 The team used SPI to control the motor.  They learned the connections necessary for this with the microcontroller and the coding and programming for sending and receiving signals.
-
 #### 9. ESP32 WIFI Module<br>
 The team used an EPS32 WIFI module.  They learned to use Thonny development environment to program it using simple python code
-
 #### 10. MCQTT<br>
 The team learned to use the MCQTT communication protocol to communicate with their system using both a smartphone and a PC.  This allowed them to unlock many different options for interacting with the device.
 <br>
