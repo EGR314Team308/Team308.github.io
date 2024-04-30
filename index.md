@@ -288,7 +288,7 @@ Rationale: Option 1 is both the cheapest and highest voltage and rotations per m
 
 ## Power Budget
 
-Power to the system was provided by a 12 volt 4 amp AC adaptor.  This provided ample power to the system which was divided between 12 volt power feeding the motor and a switchingpower regulator circuit which provided 3.3 volts to the rest of the components in the system.  See Appendix B for the full power budget spreadsheet with all of the calcuations and specific details.
+Power to the system was provided by a 12 volt 4 amp AC adaptor.  This provided ample power to the system which included a 12 volt power feeding the motor and a switchingpower regulator circuit which provided 3.3 volts to the rest of the components in the system.  See Appendix B for the full power budget spreadsheet with all of the calcuations and specific details.
 
 [Link to Appendix B: Full Version Component Selection and Power Budget](Component Selection.md) <br>
 
