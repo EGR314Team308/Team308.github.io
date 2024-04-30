@@ -159,12 +159,12 @@ Pros: 3V-18V, PWM, Fully integrated, control and power stage
 
 Option 2
 
-MP6513LGJ-Z:
-Bipolar Motor Driver Power Mosfet TSOT-23-6, $0.9/each
+IFX9201SGAUMA1:
+IC Half Bridge Driver 6A 12DSO, $3.9/each
 
-Pros: 2.5V-5.5V, PWM, Cheapest, Thermal shutdown, Overcurrent protection
+Pros: 3.3V, SPI, Cheapest, VS Undervoltage shutdown, Overcurrent protection,
 
-Cons: 600mA output
+Cons: Highest price
 
 
 Option 3
@@ -174,13 +174,13 @@ IC Motor Driver 8V-40V 8SOIC, $1.82/each
 
 Pros: DMOS, PWM, 8V-40V, Fully integrated, control and power stage, Overcurrent protection
 
-Cons: Highest price out of the three, 2A output
+Cons: Second price out of the three, 2A output
 
 ### **Chosen part is Option 2**
 
 ![motor driver](https://raw.githubusercontent.com/EGR314Team308/Team308.github.io/main/motor%20driver.JPG)
 
-MP6513LGJ-Z, Bipolar Motor Driver Power Mosfet TSOT-23-6 is the cheapest option out of the three, but it also has other functions. It has thermal shutdown, undervoltage lockout, overvoltage protection and overheat protection. Option 3 is also a good option but the voltage is too high.
+IFX9201SGAUMA1 is the one we use in class, it's the most familiar one although it is the most expensive out of the three, but it also has other functions. It has thermal shutdown, under-voltage lockout, overvoltage protection and overheat protection. Option 3 is also a good option but the voltage is too high.
 
 
 ## **Motor**
