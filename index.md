@@ -343,7 +343,7 @@ Outputs: Change parameters (Boolean)
 
 Our mainloop focuses on efficency. The system will constantly monitor the temperature and humidity within the greenhouse. It will not execute eny other code if no change is needed. If a change is needed it will determine if the greenhouse must ventilate or not. If the vent is already in it's most optimal state, the code will do nothing.
 
-### 5 Biggest Changes Since Software Proposol:
+### 5 Biggest Changes Since Software Proposal:
 
 1. Removed External Sensors - The decision was made to remove external sensors. This was due to a lack of space accross our i2c/spi bridge. Since we only had two bridges with two ports each we could not properly integrate 4 sensors with 1 actuator. We could have included humidity or temperature by itself, however since our motor was on an spi bridge, we were unable to properly integrate additional sensors.
 2. Inclusion of P Controller - Our updated plan was to vary vent spin with a P controller based on how out of range the internal readings were. We used test values as seen in our UML diagram and since our motor was not functioning during the innovation showcase, we allowed this code to vary led blink delays instead.
@@ -371,8 +371,17 @@ Overall, a version 2.0 of our software would focus on enhancing the user experie
 
 ## System Verification
 
-![image](https://egr314team308.github.io/Team308.github.io/Appendix%20B%20MQTT%20Topic%20Table%20and%20Code.html)
-
+| EGR 314 Team 308 Verification Table (Shawn Meris, Gabriel Sandys, Matt Olpin, Roy Chang) |                |                 |       |                    |                 |               |       |   |   |                  |                                                     |   |   |   |   |
+|:----------------------------------------------------------------------------------------:|:--------------:|:---------------:|:-----:|:------------------:|:---------------:|:-------------:|:-----:|:-:|:-:|:----------------:|:---------------------------------------------------:|:-:|:-:|:-:|:-:|
+| Unique PCB Markings:                                                                     |                |                 |       |                    |                 |               |       |   |   |                  |                                                     |   |   |   |   |
+|                                                                                          | 3.3V Regulated | Microcontroller | ESP32 | Temperature Sensor | Humidity Sensor | Motor Driver  | Motor |   |   |        Key       |                                                     |   |   |   |   |
+|                                                                           3.3V Regulated |        u       |        u        |   u   |          u         |        u        |       u       |   nc  |   |   |         u        | unverified connection/subsystem                     |   |   |   |   |
+|                                                                          Microcontroller |                |        u        |   u   |          u         |        u        |       u       |   nc  |   |   |         x        | connection verified by you                          |   |   |   |   |
+|                                                                                    ESP32 |                |                 |   u   |         nc         |        nc       |       nc      |   nc  |   |   | v (XYZ, 1/23/45) | connection verified by instructors (INITIALS, date) |   |   |   |   |
+|                                                                       Temperature Sensor |                |                 |       |          u         |        nc       |       nc      |   nc  |   |   |       (xyz)      | serial protocol                                     |   |   |   |   |
+|                                                                          Humidity Sensor |                |                 |       |                    |        u        |       nc      |   nc  |   |   |        nc        | No Connection                                       |   |   |   |   |
+|                                       Motor Driver                                       |                |                 |       |                    |                 |       u       |   u   |   |   |                  |                                                     |   |   |   |   |
+|                                                                                    Motor |                |                 |       |                    |                 |               |   x   |   |   |                  |                                                     |   |   |   |   |
 
 ## Lessons Learned
 
