@@ -30,3 +30,8 @@
 
 # Link to Code Repository:
 [Code Repository](https://egr314team308.github.io/Team308Code.github.io/)
+
+# Pin Module:
+
+![image](https://github.com/EGR314Team308/Team308.github.io/assets/157086096/2cd29201-796f-4478-aeff-e49f925dbad8)
+
