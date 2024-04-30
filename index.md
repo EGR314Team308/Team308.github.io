@@ -329,7 +329,7 @@ Finally a system for tracking the conditions inside the greenhouse over time wou
 
 ### Bill of Materials
 
-The list of the materials purchased and used to create the electrical system of this project are detailed in the bill of materials.  See Appendis D for the full breakdown of the parts, prices, product links, and associated datasheets.
+The list of the materials purchased and used to create the electrical system of this project are detailed in the bill of materials.  See Appendix D for the full breakdown of the parts, prices, product links, and associated datasheets.
 
 [Link to Appendix D: Bill of Materials](Bill of Materials.md) <br>
 
