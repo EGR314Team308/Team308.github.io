@@ -4,11 +4,11 @@ title: Home
 
 # Team 308: Home
 
-## Mobile Weather Station
+## Mobile Weather Station:  Oasis Greenhouse Regulator
 
 Team Members: Gabriel Sandys, Shawn Meris, Hengjui Chang, Matt Olpin
 
-3/11/2024
+4/29/2024
 
 Arizona State University, EGR 314, Spring, 2024, Dr. Nichols
 
@@ -21,16 +21,17 @@ Arizona State University, EGR 314, Spring, 2024, Dr. Nichols
 + [Selected Design](https://egr314team308.github.io/Team308.github.io/#selected-design) <br>
 + [Block Diagram](https://egr314team308.github.io/Team308.github.io/#block-diagram) <br>
 + [Component Selection](https://egr314team308.github.io/Team308.github.io/#component-selection) <br>
-  *[Full Component Selection and Power Budget](https://egr314team308.github.io/Team308.github.io/Component%20Selection.html) <br>
-+ [Microcontroller Selection](https://egr314team308.github.io/Team308.github.io/#microcontroller-selection) <br>
 + [Hardware Implementation](https://egr314team308.github.io/Team308.github.io/#hardware-implementation) <br>
 + [Software Implementation](https://egr314team308.github.io/Team308.github.io/#software-implementation) <br>
 + [Lessons Learned](https://egr314team308.github.io/Team308.github.io/#lessons-learned) <br>
 + [Recommendations for Future Students](https://egr314team308.github.io/Team308.github.io/#recommendations-for-future-students) <br>
 
 Appendix
-+ [Bill of Materials](https://egr314team308.github.io/Team308.github.io/Bill%20of%20Materials.html) <br>
-+ [MQTT Topic Table and Code](https://egr314team308.github.io/Team308.github.io/Appendix%20B%20MQTT%20Topic%20Table%20and%20Code.html) <br>
++ [Appendix A: Team Organization](Appendix A Team Organization.md) <br>
++ [Appendix B: Full Component Selection and Power Budget](https://egr314team308.github.io/Team308.github.io/Component%20Selection.html) <br>
++ [Appendix C: Microcontroller Selection](https://egr314team308.github.io/Team308.github.io/#microcontroller-selection) <br>
++ [Appendix D: Bill of Materials](https://egr314team308.github.io/Team308.github.io/Bill%20of%20Materials.html) <br>
++ [Appendix E: MQTT Topic Table and Code](https://egr314team308.github.io/Team308.github.io/Appendix%20B%20MQTT%20Topic%20Table%20and%20Code.html) <br>
 
 ## Introduction
 
@@ -216,7 +217,9 @@ The decision making process for creating this section was to find components tha
 
 The power budget was used to estimate the power needs of the greenhouse to see and make sure the greenhouse can be used for a sustainable amount of time. The power budget allows the team to be within the safety margin and run the greenhouse for at least an hour. The power budget is below.
 
-[Link to Component Selection and Power Budget](Component Selection.md) <br>
+### Full Version Component Selection and Power Budget
+
+[Link to Appendix B: Full Version Component Selection and Power Budget](Component Selection.md) <br>
 
 ### Humidity Sensor
 
@@ -281,7 +284,7 @@ Rationale: Option 1 is both the cheapest and highest voltage and rotations per m
 
 ## Microcontroller Selection
 
-[Link to Microcontroller Selection](Microcontroller Selection.md) <br>
+[Link to Appendix C: Microcontroller Selection](Microcontroller Selection.md) <br>
 
 # Hardware Implementation
 
@@ -312,7 +315,9 @@ Third, the next evolution of this project would be to add more user interaction 
 
 Finally a system for tracking the conditions inside the greenhouse over time would be added to allow for understanding of how the growing conditions change over time and to show how well the system is working. This could be done largely through software, but additional memory for the microcontroller would be needed for this to be implemented.
 
-[Link to Bill of Materials](Bill of Materials.md) <br>
+### Bill of Materials
+
+[Link to Appendix D: Bill of Materials](Bill of Materials.md) <br>
 
 ## Software Implementation
 The functionality of the software diagram to satisfy the users needs is to have the motor move a flap that opens up based on the temperature and humidity and closes when the temperature and humidity stablilizes. This also fulfills the product requirements as there are sensors detecting different weather conditions and changing based upon those conditions and interrupts. The teams design and decision making was to optimize the grow of plants in a greenhouse and to show temperature and humidity to the user.
@@ -367,7 +372,7 @@ Overall, a version 2.0 of our software would focus on enhancing the user experie
 
 ## MQTT Topic Table and Code Repository via Appendix B:
 
-[Appendix B](Appendix B MQTT Topic Table and Code.md) <br>
+[Appendix E](Appendix B MQTT Topic Table and Code.md) <br>
 
 ## System Verification
 
