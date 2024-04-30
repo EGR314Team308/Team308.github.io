@@ -8,6 +8,8 @@ title: Home
 
 Team Members: Gabriel Sandys, Shawn Meris, Hengjui Chang, Matt Olpin
 
+![greenhouse with team](greenhouse with team.JPG)
+
 4/29/2024
 
 Arizona State University, EGR 314, Spring, 2024, Dr. Nichols
@@ -299,6 +301,8 @@ The team chose the PIC16(L)F15354 as this microcontroller has all the capabiliti
 [Link to Appendix C: Microcontroller Selection](Microcontroller Selection.md) <br>
 
 # Hardware Implementation
+
+![Populated PCB](greenhouse PCB.JPG)
 
 ### Funcionality of the Schematic in Meeting User Needs
 The functionality of the schematic satisfies the users needs and product requirements as it reads both temperature and humidity for the user to see the difference between inside the greenhouse and outside for optimal weather conditions. The motor will be connected to a door which will open and close depending on the temperature and humidity. The motor will open to let in air for the greehouse to return back to the desired conditions. All the subsystems will have 2 of each for the inside and outside. The microcontroller will control all the subsystems which is programmed by the snap programmer connection. The switching power regulator helps to transfer it from 12 V to 3.3 V which will run throughout the entire system. The ESP32 WiFi Module helps to transmit WiFi to and from the microcontroller. There will also be limit switches all throughout the system. The team's bill of materials is below in the appendix.
